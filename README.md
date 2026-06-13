@@ -29,6 +29,10 @@ Preparation completed on 2026-06-13:
 - local readiness checks completed
 - public repository boundary established
 
+First scored public baseline:
+
+- `s01`: public score `12.060`
+
 ## Data
 
 Competition files are stored in an ignored local directory. Raw downloads and local caches are not committed. Public data notes are maintained in `public_data/`.
