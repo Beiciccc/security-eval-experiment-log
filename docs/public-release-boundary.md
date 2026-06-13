@@ -15,8 +15,7 @@ Excluded content:
 - credentials, tokens, cookies, API keys, or local account paths
 - raw Kaggle downloads and local caches
 - submission packages and private candidate files
-- internal run logs, debug traces, and automation details
+- private run logs, debug traces, and private process details
 - private leaderboard inference or non-public discussion content
 
 Every public update should be checked against this boundary before commit.
-

@@ -44,6 +44,6 @@ No competition submission was made in this preparation step. Future experiment r
 
 - No credentials
 - No private tokens
-- No internal automation logs
+- No private run logs
 - No private paths
 - No raw private data

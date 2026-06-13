@@ -1,6 +1,5 @@
 # Results
 
-This directory is reserved for sanitized public result summaries and figures.
+This directory contains sanitized public result summaries and figures.
 
-No leaderboard results have been published yet.
-
+The summary table includes completed public scores and accepted submissions whose scores are still pending.

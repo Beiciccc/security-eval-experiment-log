@@ -36,7 +36,6 @@ Link to public files in this repository.
 
 - No credentials
 - No private tokens
-- No internal automation logs
+- No private run logs
 - No private paths
 - No raw private data
-

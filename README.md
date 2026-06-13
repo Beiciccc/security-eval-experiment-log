@@ -11,7 +11,7 @@ The repository is intentionally limited to public-facing material:
 - release notes for public artifacts
 - sanitized result tables or figures when available
 
-It does not contain credentials, private data, local runtime logs, submission packages, or internal automation details.
+It does not contain credentials, private data, local runtime logs, submission packages, or private process details.
 
 ## Repository Layout
 
@@ -32,6 +32,11 @@ Preparation completed on 2026-06-13:
 First scored public baseline:
 
 - `s01`: public score `12.060`
+
+Accepted submissions pending public scores:
+
+- `s02`
+- `s03`
 
 ## Data
 
