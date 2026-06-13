@@ -1,0 +1,45 @@
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.crt
+kaggle.json
+.kaggle/
+secrets/
+credentials/
+tokens/
+
+# Local competition files and runtime state
+kaggle/input/
+kaggle/working/
+.local/
+.aicomp/
+submissions/
+logs/
+tmp/
+temp/
+
+# Private or bulky data
+data/raw/
+data/private/
+data/interim/
+outputs/private/
+*.submission.csv
+*.zip
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Editor and OS state
+.DS_Store
+._*
+.vscode/
+.idea/
