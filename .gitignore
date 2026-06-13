@@ -13,6 +13,7 @@ tokens/
 
 # Local competition files and runtime state
 kaggle/input/
+kaggle/kernel/
 kaggle/working/
 .local/
 .aicomp/
