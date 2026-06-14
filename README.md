@@ -33,12 +33,12 @@ First scored public baseline:
 
 - `s01`: public score `12.060`
 
-Accepted submissions pending public scores:
+Latest completed public scores:
 
-- `s02`
-- `s03`
-- `s04`
-- `s05`
+- `s02`: public score `7.940`
+- `s03`: public score `2.765`
+- `s04`: public score `3.050`
+- `s05`: public score `3.135`
 
 ## Data
 
