@@ -40,6 +40,10 @@ Latest completed public scores:
 - `s04`: public score `3.050`
 - `s05`: public score `3.135`
 
+Current pending public readout:
+
+- `s06`: accepted on 2026-06-14, score pending
+
 ## Data
 
 Competition files are stored in an ignored local directory. Raw downloads and local caches are not committed. Public data notes are maintained in `public_data/`.

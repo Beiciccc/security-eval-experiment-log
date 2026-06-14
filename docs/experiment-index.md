@@ -8,3 +8,4 @@
 | 2026-06-13 | [`2026-06-13-s03.md`](../experiments/2026-06-13-s03.md) | Public | Compact direct-callback profile, score 2.765 |
 | 2026-06-13 | [`2026-06-13-s04.md`](../experiments/2026-06-13-s04.md) | Public | Compact multi-endpoint stack benchmark, score 3.050 |
 | 2026-06-13 | [`2026-06-13-s05.md`](../experiments/2026-06-13-s05.md) | Public | Compact stack benchmark, score 3.135 |
+| 2026-06-14 | [`2026-06-14-s06.md`](../experiments/2026-06-14-s06.md) | Public | Restored validation-width benchmark, score pending |
