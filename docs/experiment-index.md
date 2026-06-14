@@ -12,3 +12,4 @@
 | 2026-06-14 | [`2026-06-14-s07.md`](../experiments/2026-06-14-s07.md) | Public | Pending adaptive coverage benchmark |
 | 2026-06-14 | [`2026-06-14-s08.md`](../experiments/2026-06-14-s08.md) | Public | Pending compact verification benchmark |
 | 2026-06-14 | [`2026-06-14-s09.md`](../experiments/2026-06-14-s09.md) | Public | Pending four-destination diversity benchmark |
+| 2026-06-14 | [`2026-06-14-s10.md`](../experiments/2026-06-14-s10.md) | Public | Pending mixed-signal probe |
