@@ -10,3 +10,4 @@
 | 2026-06-13 | [`2026-06-13-s05.md`](../experiments/2026-06-13-s05.md) | Public | Compact stack benchmark, score 3.135 |
 | 2026-06-14 | [`2026-06-14-s06.md`](../experiments/2026-06-14-s06.md) | Public | Pending restored coverage benchmark |
 | 2026-06-14 | [`2026-06-14-s07.md`](../experiments/2026-06-14-s07.md) | Public | Pending adaptive coverage benchmark |
+| 2026-06-14 | [`2026-06-14-s08.md`](../experiments/2026-06-14-s08.md) | Public | Pending compact verification benchmark |

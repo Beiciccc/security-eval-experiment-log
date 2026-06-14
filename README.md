@@ -44,6 +44,7 @@ Accepted submissions pending public scores:
 
 - `s06`
 - `s07`
+- `s08`
 
 ## Data
 

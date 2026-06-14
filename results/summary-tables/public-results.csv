@@ -6,3 +6,4 @@ date,submission,status,public_score,notes
 2026-06-13,s05,complete,3.135,compact stack benchmark
 2026-06-14,s06,pending,,restored coverage benchmark accepted; score pending
 2026-06-14,s07,pending,,adaptive coverage benchmark accepted; score pending
+2026-06-14,s08,pending,,compact verification benchmark accepted; score pending
