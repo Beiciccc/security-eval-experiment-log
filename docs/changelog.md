@@ -12,4 +12,4 @@
 
 ## 2026-06-14
 
-- Added pending record for s06.
+- Added pending records for s06 and s07.

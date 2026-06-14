@@ -4,4 +4,5 @@ date,submission,status,public_score,notes
 2026-06-13,s03,complete,2.765,compact direct-callback profile
 2026-06-13,s04,complete,3.050,compact multi-endpoint stack benchmark
 2026-06-13,s05,complete,3.135,compact stack benchmark
-2026-06-14,s06,pending,,restored validation-width benchmark accepted; score pending
+2026-06-14,s06,pending,,restored coverage benchmark accepted; score pending
+2026-06-14,s07,pending,,adaptive coverage benchmark accepted; score pending

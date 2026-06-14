@@ -40,9 +40,10 @@ Latest completed public scores:
 - `s04`: public score `3.050`
 - `s05`: public score `3.135`
 
-Current pending public readout:
+Accepted submissions pending public scores:
 
-- `s06`: accepted on 2026-06-14, score pending
+- `s06`
+- `s07`
 
 ## Data
 
