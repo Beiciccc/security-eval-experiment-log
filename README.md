@@ -39,14 +39,14 @@ Latest completed public scores:
 - `s03`: public score `2.765`
 - `s04`: public score `3.050`
 - `s05`: public score `3.135`
+- `s07`: public score `19.130`
+- `s08`: public score `5.760`
+- `s09`: public score `8.950`
+- `s10`: public score `3.150`
 
 Accepted submissions pending public scores:
 
 - `s06`
-- `s07`
-- `s08`
-- `s09`
-- `s10`
 
 ## Data
 

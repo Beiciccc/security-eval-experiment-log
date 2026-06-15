@@ -9,7 +9,7 @@
 | 2026-06-13 | [`2026-06-13-s04.md`](../experiments/2026-06-13-s04.md) | Public | Compact multi-endpoint stack benchmark, score 3.050 |
 | 2026-06-13 | [`2026-06-13-s05.md`](../experiments/2026-06-13-s05.md) | Public | Compact stack benchmark, score 3.135 |
 | 2026-06-14 | [`2026-06-14-s06.md`](../experiments/2026-06-14-s06.md) | Public | Pending restored coverage benchmark |
-| 2026-06-14 | [`2026-06-14-s07.md`](../experiments/2026-06-14-s07.md) | Public | Pending adaptive coverage benchmark |
-| 2026-06-14 | [`2026-06-14-s08.md`](../experiments/2026-06-14-s08.md) | Public | Pending compact verification benchmark |
-| 2026-06-14 | [`2026-06-14-s09.md`](../experiments/2026-06-14-s09.md) | Public | Pending four-destination diversity benchmark |
-| 2026-06-14 | [`2026-06-14-s10.md`](../experiments/2026-06-14-s10.md) | Public | Pending mixed-signal probe |
+| 2026-06-14 | [`2026-06-14-s07.md`](../experiments/2026-06-14-s07.md) | Public | Adaptive coverage benchmark, score 19.130 |
+| 2026-06-14 | [`2026-06-14-s08.md`](../experiments/2026-06-14-s08.md) | Public | Compact verification benchmark, score 5.760 |
+| 2026-06-14 | [`2026-06-14-s09.md`](../experiments/2026-06-14-s09.md) | Public | Four-destination diversity benchmark, score 8.950 |
+| 2026-06-14 | [`2026-06-14-s10.md`](../experiments/2026-06-14-s10.md) | Public | Mixed-signal probe, score 3.150 |

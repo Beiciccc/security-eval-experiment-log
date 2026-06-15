@@ -16,3 +16,7 @@
 - Added pending record for s08.
 - Added pending record for s09.
 - Added pending record for s10.
+
+## 2026-06-15
+
+- Recorded completed public scores for s07 through s10.
