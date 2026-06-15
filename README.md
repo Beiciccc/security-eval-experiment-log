@@ -50,6 +50,7 @@ Accepted submissions pending public scores:
 - `s11`
 - `s12`
 - `s13`
+- `s14`
 
 ## Data
 

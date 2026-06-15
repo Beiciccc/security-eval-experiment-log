@@ -22,3 +22,4 @@
 - Recorded completed public scores for s07 through s10.
 - Added pending record for s11.
 - Added pending records for s12 and s13.
+- Added pending record for s14.

@@ -16,3 +16,4 @@
 | 2026-06-15 | [`2026-06-15-s11.md`](../experiments/2026-06-15-s11.md) | Public | Pending adaptive coverage expansion |
 | 2026-06-15 | [`2026-06-15-s12.md`](../experiments/2026-06-15-s12.md) | Public | Pending expanded coverage benchmark |
 | 2026-06-15 | [`2026-06-15-s13.md`](../experiments/2026-06-15-s13.md) | Public | Pending verification-bank benchmark |
+| 2026-06-15 | [`2026-06-15-s14.md`](../experiments/2026-06-15-s14.md) | Public | Pending four-destination diversity benchmark |
