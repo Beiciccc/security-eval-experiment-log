@@ -13,3 +13,4 @@
 | 2026-06-14 | [`2026-06-14-s08.md`](../experiments/2026-06-14-s08.md) | Public | Compact verification benchmark, score 5.760 |
 | 2026-06-14 | [`2026-06-14-s09.md`](../experiments/2026-06-14-s09.md) | Public | Four-destination diversity benchmark, score 8.950 |
 | 2026-06-14 | [`2026-06-14-s10.md`](../experiments/2026-06-14-s10.md) | Public | Mixed-signal probe, score 3.150 |
+| 2026-06-15 | [`2026-06-15-s11.md`](../experiments/2026-06-15-s11.md) | Public | Pending adaptive coverage expansion |

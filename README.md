@@ -47,6 +47,7 @@ Latest completed public scores:
 Accepted submissions pending public scores:
 
 - `s06`
+- `s11`
 
 ## Data
 

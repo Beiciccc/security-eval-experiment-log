@@ -20,3 +20,4 @@
 ## 2026-06-15
 
 - Recorded completed public scores for s07 through s10.
+- Added pending record for s11.
