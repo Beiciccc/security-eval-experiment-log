@@ -10,3 +10,5 @@ date,submission,status,public_score,notes
 2026-06-14,s09,complete,8.950,four-destination diversity benchmark
 2026-06-14,s10,complete,3.150,mixed-signal probe
 2026-06-15,s11,pending,,adaptive coverage expansion accepted; score pending
+2026-06-15,s12,pending,,expanded coverage benchmark accepted; score pending
+2026-06-15,s13,pending,,verification-bank benchmark accepted; score pending

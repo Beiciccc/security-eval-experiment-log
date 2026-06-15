@@ -48,6 +48,8 @@ Accepted submissions pending public scores:
 
 - `s06`
 - `s11`
+- `s12`
+- `s13`
 
 ## Data
 
