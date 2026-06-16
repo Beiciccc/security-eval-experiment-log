@@ -33,4 +33,3 @@
 - Added pending record for s17.
 - Added pending record for s18.
 - Added pending record for s19.
-- Added pending record for s19.

@@ -22,4 +22,3 @@
 | 2026-06-16 | [`2026-06-16-s17.md`](../experiments/2026-06-16-s17.md) | Public | Pending adaptive stability benchmark |
 | 2026-06-16 | [`2026-06-16-s18.md`](../experiments/2026-06-16-s18.md) | Public | Pending multi-message adaptive benchmark |
 | 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Pending endpoint-priority adaptive benchmark |
-| 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Pending endpoint-priority adaptive benchmark |
