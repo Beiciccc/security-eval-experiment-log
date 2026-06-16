@@ -16,3 +16,4 @@ date,submission,status,public_score,notes
 2026-06-15,s15,complete,20.370,conservative adaptive benchmark
 2026-06-16,s16,pending,,adaptive coverage expansion accepted; score pending
 2026-06-16,s17,pending,,adaptive stability benchmark accepted; score pending
+2026-06-16,s18,pending,,multi-message adaptive benchmark accepted; score pending
