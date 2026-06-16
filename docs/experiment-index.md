@@ -18,3 +18,4 @@
 | 2026-06-15 | [`2026-06-15-s13.md`](../experiments/2026-06-15-s13.md) | Public | Verification-bank benchmark, score 15.840 |
 | 2026-06-15 | [`2026-06-15-s14.md`](../experiments/2026-06-15-s14.md) | Public | Four-destination diversity benchmark, public score not reported |
 | 2026-06-15 | [`2026-06-15-s15.md`](../experiments/2026-06-15-s15.md) | Public | Conservative adaptive benchmark, score 20.370 |
+| 2026-06-16 | [`2026-06-16-s16.md`](../experiments/2026-06-16-s16.md) | Public | Pending adaptive coverage expansion |
