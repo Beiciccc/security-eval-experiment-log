@@ -24,3 +24,8 @@
 - Added pending records for s12 and s13.
 - Added pending record for s14.
 - Added pending record for s15.
+
+## 2026-06-16
+
+- Recorded completed statuses for s06 and s11 through s15.
+- Recorded public scores for s11, s13, and s15.

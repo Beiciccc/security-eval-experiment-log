@@ -43,15 +43,15 @@ Latest completed public scores:
 - `s08`: public score `5.760`
 - `s09`: public score `8.950`
 - `s10`: public score `3.150`
+- `s11`: public score `23.750`
+- `s13`: public score `15.840`
+- `s15`: public score `20.370`
 
-Accepted submissions pending public scores:
+Completed without a reported public score:
 
 - `s06`
-- `s11`
 - `s12`
-- `s13`
 - `s14`
-- `s15`
 
 ## Data
 

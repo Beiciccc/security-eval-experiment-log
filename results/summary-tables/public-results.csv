@@ -4,13 +4,13 @@ date,submission,status,public_score,notes
 2026-06-13,s03,complete,2.765,compact direct-callback profile
 2026-06-13,s04,complete,3.050,compact multi-endpoint stack benchmark
 2026-06-13,s05,complete,3.135,compact stack benchmark
-2026-06-14,s06,pending,,restored coverage benchmark accepted; score pending
+2026-06-14,s06,complete,,restored coverage benchmark completed; public score not reported
 2026-06-14,s07,complete,19.130,adaptive coverage benchmark
 2026-06-14,s08,complete,5.760,compact verification benchmark
 2026-06-14,s09,complete,8.950,four-destination diversity benchmark
 2026-06-14,s10,complete,3.150,mixed-signal probe
-2026-06-15,s11,pending,,adaptive coverage expansion accepted; score pending
-2026-06-15,s12,pending,,expanded coverage benchmark accepted; score pending
-2026-06-15,s13,pending,,verification-bank benchmark accepted; score pending
-2026-06-15,s14,pending,,four-destination diversity benchmark accepted; score pending
-2026-06-15,s15,pending,,conservative adaptive benchmark accepted; score pending
+2026-06-15,s11,complete,23.750,adaptive coverage expansion
+2026-06-15,s12,complete,,expanded coverage benchmark completed; public score not reported
+2026-06-15,s13,complete,15.840,verification-bank benchmark
+2026-06-15,s14,complete,,four-destination diversity benchmark completed; public score not reported
+2026-06-15,s15,complete,20.370,conservative adaptive benchmark
