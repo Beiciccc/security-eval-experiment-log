@@ -62,6 +62,7 @@ Accepted submissions pending public scores:
 
 - `s21`
 - `s22`
+- `s23`
 
 ## Data
 

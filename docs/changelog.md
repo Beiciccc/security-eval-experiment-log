@@ -41,3 +41,4 @@
 - Recorded public scores for s16, s17, s18, and s20.
 - Added pending record for s21.
 - Added pending record for s22.
+- Added pending record for s23.

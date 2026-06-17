@@ -25,3 +25,4 @@
 | 2026-06-16 | [`2026-06-16-s20.md`](../experiments/2026-06-16-s20.md) | Public | Upper-scale adaptive benchmark, score 27.900 |
 | 2026-06-17 | [`2026-06-17-s21.md`](../experiments/2026-06-17-s21.md) | Public | Pending adaptive coverage scale-up |
 | 2026-06-17 | [`2026-06-17-s22.md`](../experiments/2026-06-17-s22.md) | Public | Pending adaptive coverage scale-up |
+| 2026-06-17 | [`2026-06-17-s23.md`](../experiments/2026-06-17-s23.md) | Public | Pending adaptive coverage scale-up |
