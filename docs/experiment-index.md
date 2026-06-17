@@ -26,3 +26,4 @@
 | 2026-06-17 | [`2026-06-17-s21.md`](../experiments/2026-06-17-s21.md) | Public | Pending adaptive coverage scale-up |
 | 2026-06-17 | [`2026-06-17-s22.md`](../experiments/2026-06-17-s22.md) | Public | Pending adaptive coverage scale-up |
 | 2026-06-17 | [`2026-06-17-s23.md`](../experiments/2026-06-17-s23.md) | Public | Pending adaptive coverage scale-up |
+| 2026-06-17 | [`2026-06-17-s24.md`](../experiments/2026-06-17-s24.md) | Public | Pending adaptive coverage boundary probe |
