@@ -23,3 +23,4 @@
 | 2026-06-16 | [`2026-06-16-s18.md`](../experiments/2026-06-16-s18.md) | Public | Multi-message adaptive benchmark, score 22.780 |
 | 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Endpoint-priority adaptive benchmark, public score not reported |
 | 2026-06-16 | [`2026-06-16-s20.md`](../experiments/2026-06-16-s20.md) | Public | Upper-scale adaptive benchmark, score 27.900 |
+| 2026-06-17 | [`2026-06-17-s21.md`](../experiments/2026-06-17-s21.md) | Public | Pending adaptive coverage scale-up |

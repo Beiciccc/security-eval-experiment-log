@@ -39,3 +39,4 @@
 
 - Recorded completed statuses for s16 through s20.
 - Recorded public scores for s16, s17, s18, and s20.
+- Added pending record for s21.

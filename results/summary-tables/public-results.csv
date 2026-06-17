@@ -19,3 +19,4 @@ date,submission,status,public_score,notes
 2026-06-16,s18,complete,22.780,multi-message adaptive benchmark
 2026-06-16,s19,complete,,endpoint-priority adaptive benchmark completed; public score not reported
 2026-06-16,s20,complete,27.900,upper-scale adaptive benchmark
+2026-06-17,s21,pending,,adaptive coverage scale-up accepted; score pending
