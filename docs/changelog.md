@@ -43,3 +43,4 @@
 - Added pending record for s22.
 - Added pending record for s23.
 - Added pending record for s24.
+- Added pending record for s25.
