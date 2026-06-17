@@ -18,8 +18,8 @@
 | 2026-06-15 | [`2026-06-15-s13.md`](../experiments/2026-06-15-s13.md) | Public | Verification-bank benchmark, score 15.840 |
 | 2026-06-15 | [`2026-06-15-s14.md`](../experiments/2026-06-15-s14.md) | Public | Four-destination diversity benchmark, public score not reported |
 | 2026-06-15 | [`2026-06-15-s15.md`](../experiments/2026-06-15-s15.md) | Public | Conservative adaptive benchmark, score 20.370 |
-| 2026-06-16 | [`2026-06-16-s16.md`](../experiments/2026-06-16-s16.md) | Public | Pending adaptive coverage expansion |
-| 2026-06-16 | [`2026-06-16-s17.md`](../experiments/2026-06-16-s17.md) | Public | Pending adaptive stability benchmark |
-| 2026-06-16 | [`2026-06-16-s18.md`](../experiments/2026-06-16-s18.md) | Public | Pending multi-message adaptive benchmark |
-| 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Pending endpoint-priority adaptive benchmark |
-| 2026-06-16 | [`2026-06-16-s20.md`](../experiments/2026-06-16-s20.md) | Public | Pending upper-scale adaptive benchmark |
+| 2026-06-16 | [`2026-06-16-s16.md`](../experiments/2026-06-16-s16.md) | Public | Adaptive coverage expansion, score 25.460 |
+| 2026-06-16 | [`2026-06-16-s17.md`](../experiments/2026-06-16-s17.md) | Public | Adaptive stability benchmark, score 24.060 |
+| 2026-06-16 | [`2026-06-16-s18.md`](../experiments/2026-06-16-s18.md) | Public | Multi-message adaptive benchmark, score 22.780 |
+| 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Endpoint-priority adaptive benchmark, public score not reported |
+| 2026-06-16 | [`2026-06-16-s20.md`](../experiments/2026-06-16-s20.md) | Public | Upper-scale adaptive benchmark, score 27.900 |

@@ -14,8 +14,8 @@ date,submission,status,public_score,notes
 2026-06-15,s13,complete,15.840,verification-bank benchmark
 2026-06-15,s14,complete,,four-destination diversity benchmark completed; public score not reported
 2026-06-15,s15,complete,20.370,conservative adaptive benchmark
-2026-06-16,s16,pending,,adaptive coverage expansion accepted; score pending
-2026-06-16,s17,pending,,adaptive stability benchmark accepted; score pending
-2026-06-16,s18,pending,,multi-message adaptive benchmark accepted; score pending
-2026-06-16,s19,pending,,endpoint-priority adaptive benchmark accepted; score pending
-2026-06-16,s20,pending,,upper-scale adaptive benchmark accepted; score pending
+2026-06-16,s16,complete,25.460,adaptive coverage expansion
+2026-06-16,s17,complete,24.060,adaptive stability benchmark
+2026-06-16,s18,complete,22.780,multi-message adaptive benchmark
+2026-06-16,s19,complete,,endpoint-priority adaptive benchmark completed; public score not reported
+2026-06-16,s20,complete,27.900,upper-scale adaptive benchmark

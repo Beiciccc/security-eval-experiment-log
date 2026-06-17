@@ -46,20 +46,17 @@ Latest completed public scores:
 - `s11`: public score `23.750`
 - `s13`: public score `15.840`
 - `s15`: public score `20.370`
+- `s16`: public score `25.460`
+- `s17`: public score `24.060`
+- `s18`: public score `22.780`
+- `s20`: public score `27.900`
 
 Completed without a reported public score:
 
 - `s06`
 - `s12`
 - `s14`
-
-Accepted submissions pending public scores:
-
-- `s16`
-- `s17`
-- `s18`
 - `s19`
-- `s20`
 
 ## Data
 
