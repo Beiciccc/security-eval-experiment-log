@@ -51,3 +51,4 @@
 - Recorded public scores for s21, s22, and s23.
 - Added pending record for s26.
 - Added pending record for s27.
+- Added pending record for s28.

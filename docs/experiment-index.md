@@ -30,3 +30,4 @@
 | 2026-06-17 | [`2026-06-17-s25.md`](../experiments/2026-06-17-s25.md) | Public | High-risk adaptive boundary probe, public score not reported |
 | 2026-06-18 | [`2026-06-18-s26.md`](../experiments/2026-06-18-s26.md) | Public | Pending adaptive boundary probe |
 | 2026-06-18 | [`2026-06-18-s27.md`](../experiments/2026-06-18-s27.md) | Public | Pending adaptive boundary probe |
+| 2026-06-18 | [`2026-06-18-s28.md`](../experiments/2026-06-18-s28.md) | Public | Pending adaptive boundary probe |
