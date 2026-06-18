@@ -44,3 +44,8 @@
 - Added pending record for s23.
 - Added pending record for s24.
 - Added pending record for s25.
+
+## 2026-06-18
+
+- Recorded completed statuses for s21 through s25.
+- Recorded public scores for s21, s22, and s23.

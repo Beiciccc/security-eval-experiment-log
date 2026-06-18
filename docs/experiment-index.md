@@ -23,8 +23,8 @@
 | 2026-06-16 | [`2026-06-16-s18.md`](../experiments/2026-06-16-s18.md) | Public | Multi-message adaptive benchmark, score 22.780 |
 | 2026-06-16 | [`2026-06-16-s19.md`](../experiments/2026-06-16-s19.md) | Public | Endpoint-priority adaptive benchmark, public score not reported |
 | 2026-06-16 | [`2026-06-16-s20.md`](../experiments/2026-06-16-s20.md) | Public | Upper-scale adaptive benchmark, score 27.900 |
-| 2026-06-17 | [`2026-06-17-s21.md`](../experiments/2026-06-17-s21.md) | Public | Pending adaptive coverage scale-up |
-| 2026-06-17 | [`2026-06-17-s22.md`](../experiments/2026-06-17-s22.md) | Public | Pending adaptive coverage scale-up |
-| 2026-06-17 | [`2026-06-17-s23.md`](../experiments/2026-06-17-s23.md) | Public | Pending adaptive coverage scale-up |
-| 2026-06-17 | [`2026-06-17-s24.md`](../experiments/2026-06-17-s24.md) | Public | Pending adaptive coverage boundary probe |
-| 2026-06-17 | [`2026-06-17-s25.md`](../experiments/2026-06-17-s25.md) | Public | Pending high-risk adaptive boundary probe |
+| 2026-06-17 | [`2026-06-17-s21.md`](../experiments/2026-06-17-s21.md) | Public | Adaptive coverage scale-up, score 29.430 |
+| 2026-06-17 | [`2026-06-17-s22.md`](../experiments/2026-06-17-s22.md) | Public | Adaptive coverage scale-up, score 31.160 |
+| 2026-06-17 | [`2026-06-17-s23.md`](../experiments/2026-06-17-s23.md) | Public | Adaptive coverage scale-up, score 32.710 |
+| 2026-06-17 | [`2026-06-17-s24.md`](../experiments/2026-06-17-s24.md) | Public | Adaptive coverage boundary probe, public score not reported |
+| 2026-06-17 | [`2026-06-17-s25.md`](../experiments/2026-06-17-s25.md) | Public | High-risk adaptive boundary probe, public score not reported |

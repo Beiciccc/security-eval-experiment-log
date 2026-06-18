@@ -19,8 +19,8 @@ date,submission,status,public_score,notes
 2026-06-16,s18,complete,22.780,multi-message adaptive benchmark
 2026-06-16,s19,complete,,endpoint-priority adaptive benchmark completed; public score not reported
 2026-06-16,s20,complete,27.900,upper-scale adaptive benchmark
-2026-06-17,s21,pending,,adaptive coverage scale-up accepted; score pending
-2026-06-17,s22,pending,,adaptive coverage scale-up accepted; score pending
-2026-06-17,s23,pending,,adaptive coverage scale-up accepted; score pending
-2026-06-17,s24,pending,,adaptive coverage boundary probe accepted; score pending
-2026-06-17,s25,pending,,high-risk adaptive boundary probe accepted; score pending
+2026-06-17,s21,complete,29.430,adaptive coverage scale-up
+2026-06-17,s22,complete,31.160,adaptive coverage scale-up
+2026-06-17,s23,complete,32.710,adaptive coverage scale-up
+2026-06-17,s24,complete,,adaptive coverage boundary probe completed; public score not reported
+2026-06-17,s25,complete,,high-risk adaptive boundary probe completed; public score not reported

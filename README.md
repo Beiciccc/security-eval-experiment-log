@@ -50,6 +50,9 @@ Latest completed public scores:
 - `s17`: public score `24.060`
 - `s18`: public score `22.780`
 - `s20`: public score `27.900`
+- `s21`: public score `29.430`
+- `s22`: public score `31.160`
+- `s23`: public score `32.710`
 
 Completed without a reported public score:
 
@@ -57,12 +60,6 @@ Completed without a reported public score:
 - `s12`
 - `s14`
 - `s19`
-
-Accepted submissions pending public scores:
-
-- `s21`
-- `s22`
-- `s23`
 - `s24`
 - `s25`
 
