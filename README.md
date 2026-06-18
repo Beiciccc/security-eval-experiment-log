@@ -68,6 +68,7 @@ Accepted submissions pending public scores:
 - `s26`
 - `s27`
 - `s28`
+- `s29`
 
 ## Data
 
