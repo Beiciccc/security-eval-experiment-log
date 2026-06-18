@@ -66,6 +66,7 @@ Completed without a reported public score:
 Accepted submissions pending public scores:
 
 - `s26`
+- `s27`
 
 ## Data
 

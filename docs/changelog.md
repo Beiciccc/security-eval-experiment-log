@@ -50,3 +50,4 @@
 - Recorded completed statuses for s21 through s25.
 - Recorded public scores for s21, s22, and s23.
 - Added pending record for s26.
+- Added pending record for s27.
