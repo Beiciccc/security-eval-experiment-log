@@ -32,3 +32,4 @@
 | 2026-06-18 | [`2026-06-18-s27.md`](../experiments/2026-06-18-s27.md) | Public | Pending adaptive boundary probe |
 | 2026-06-18 | [`2026-06-18-s28.md`](../experiments/2026-06-18-s28.md) | Public | Pending adaptive boundary probe |
 | 2026-06-18 | [`2026-06-18-s29.md`](../experiments/2026-06-18-s29.md) | Public | Pending adaptive boundary probe |
+| 2026-06-18 | [`2026-06-18-s30.md`](../experiments/2026-06-18-s30.md) | Public | Pending adaptive boundary probe |
