@@ -63,6 +63,10 @@ Completed without a reported public score:
 - `s24`
 - `s25`
 
+Accepted submissions pending public scores:
+
+- `s26`
+
 ## Data
 
 Competition files are stored in an ignored local directory. Raw downloads and local caches are not committed. Public data notes are maintained in `public_data/`.
