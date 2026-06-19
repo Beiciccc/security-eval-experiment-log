@@ -36,3 +36,4 @@
 | 2026-06-19 | [`2026-06-19-s31.md`](../experiments/2026-06-19-s31.md) | Public | Pending short static direct benchmark |
 | 2026-06-19 | [`2026-06-19-s32.md`](../experiments/2026-06-19-s32.md) | Public | Pending short static direct benchmark |
 | 2026-06-19 | [`2026-06-19-s33.md`](../experiments/2026-06-19-s33.md) | Public | Pending short static direct benchmark |
+| 2026-06-19 | [`2026-06-19-s34.md`](../experiments/2026-06-19-s34.md) | Public | Pending short static direct benchmark |
