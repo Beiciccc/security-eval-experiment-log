@@ -24,8 +24,8 @@ date,submission,status,public_score,notes
 2026-06-17,s23,complete,32.710,adaptive coverage scale-up
 2026-06-17,s24,complete,,adaptive coverage boundary probe completed; public score not reported
 2026-06-17,s25,complete,,high-risk adaptive boundary probe completed; public score not reported
-2026-06-18,s26,pending,,adaptive boundary probe accepted; score pending
-2026-06-18,s27,pending,,adaptive boundary probe accepted; score pending
-2026-06-18,s28,pending,,adaptive boundary probe accepted; score pending
-2026-06-18,s29,pending,,adaptive boundary probe accepted; score pending
-2026-06-18,s30,pending,,adaptive boundary probe accepted; score pending
+2026-06-18,s26,complete,32.460,adaptive boundary probe completed
+2026-06-18,s27,complete,,adaptive boundary probe completed; public score not reported
+2026-06-18,s28,complete,,adaptive boundary probe completed; public score not reported
+2026-06-18,s29,complete,33.560,adaptive boundary probe completed
+2026-06-18,s30,complete,33.940,adaptive boundary probe completed

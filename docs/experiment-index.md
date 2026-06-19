@@ -28,8 +28,8 @@
 | 2026-06-17 | [`2026-06-17-s23.md`](../experiments/2026-06-17-s23.md) | Public | Adaptive coverage scale-up, score 32.710 |
 | 2026-06-17 | [`2026-06-17-s24.md`](../experiments/2026-06-17-s24.md) | Public | Adaptive coverage boundary probe, public score not reported |
 | 2026-06-17 | [`2026-06-17-s25.md`](../experiments/2026-06-17-s25.md) | Public | High-risk adaptive boundary probe, public score not reported |
-| 2026-06-18 | [`2026-06-18-s26.md`](../experiments/2026-06-18-s26.md) | Public | Pending adaptive boundary probe |
-| 2026-06-18 | [`2026-06-18-s27.md`](../experiments/2026-06-18-s27.md) | Public | Pending adaptive boundary probe |
-| 2026-06-18 | [`2026-06-18-s28.md`](../experiments/2026-06-18-s28.md) | Public | Pending adaptive boundary probe |
-| 2026-06-18 | [`2026-06-18-s29.md`](../experiments/2026-06-18-s29.md) | Public | Pending adaptive boundary probe |
-| 2026-06-18 | [`2026-06-18-s30.md`](../experiments/2026-06-18-s30.md) | Public | Pending adaptive boundary probe |
+| 2026-06-18 | [`2026-06-18-s26.md`](../experiments/2026-06-18-s26.md) | Public | Adaptive boundary probe, score 32.460 |
+| 2026-06-18 | [`2026-06-18-s27.md`](../experiments/2026-06-18-s27.md) | Public | Adaptive boundary probe, public score not reported |
+| 2026-06-18 | [`2026-06-18-s28.md`](../experiments/2026-06-18-s28.md) | Public | Adaptive boundary probe, public score not reported |
+| 2026-06-18 | [`2026-06-18-s29.md`](../experiments/2026-06-18-s29.md) | Public | Adaptive boundary probe, score 33.560 |
+| 2026-06-18 | [`2026-06-18-s30.md`](../experiments/2026-06-18-s30.md) | Public | Adaptive boundary probe, score 33.940 |
