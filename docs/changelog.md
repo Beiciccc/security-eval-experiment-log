@@ -73,3 +73,4 @@
 - Added pending record for s37.
 - Added pending record for s38.
 - Added pending record for s39.
+- Added pending record for s40.

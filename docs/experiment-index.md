@@ -42,3 +42,4 @@
 | 2026-06-20 | [`2026-06-20-s37.md`](../experiments/2026-06-20-s37.md) | Public | Pending short static direct boundary probe |
 | 2026-06-20 | [`2026-06-20-s38.md`](../experiments/2026-06-20-s38.md) | Public | Pending compact static direct boundary probe |
 | 2026-06-20 | [`2026-06-20-s39.md`](../experiments/2026-06-20-s39.md) | Public | Pending compact static direct boundary probe |
+| 2026-06-20 | [`2026-06-20-s40.md`](../experiments/2026-06-20-s40.md) | Public | Pending compact static direct boundary probe |
