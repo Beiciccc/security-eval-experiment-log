@@ -64,3 +64,8 @@
 - Added pending record for s33.
 - Added pending record for s34.
 - Added pending record for s35.
+
+## 2026-06-20
+
+- Recorded completed statuses for s31 through s35.
+- Recorded public scores for s31, s32, and s33.

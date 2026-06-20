@@ -29,8 +29,8 @@ date,submission,status,public_score,notes
 2026-06-18,s28,complete,,adaptive boundary probe completed; public score not reported
 2026-06-18,s29,complete,33.560,adaptive boundary probe completed
 2026-06-18,s30,complete,33.940,adaptive boundary probe completed
-2026-06-19,s31,pending,,short static direct benchmark accepted; score pending
-2026-06-19,s32,pending,,short static direct benchmark accepted; score pending
-2026-06-19,s33,pending,,short static direct benchmark accepted; score pending
-2026-06-19,s34,pending,,short static direct benchmark accepted; score pending
-2026-06-19,s35,pending,,short static direct benchmark accepted; score pending
+2026-06-19,s31,complete,36.000,short static direct benchmark completed
+2026-06-19,s32,complete,40.500,short static direct benchmark completed
+2026-06-19,s33,complete,45.000,short static direct benchmark completed
+2026-06-19,s34,complete,,short static direct benchmark completed; public score not reported
+2026-06-19,s35,complete,,short static direct benchmark completed; public score not reported

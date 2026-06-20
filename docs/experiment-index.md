@@ -33,8 +33,8 @@
 | 2026-06-18 | [`2026-06-18-s28.md`](../experiments/2026-06-18-s28.md) | Public | Adaptive boundary probe, public score not reported |
 | 2026-06-18 | [`2026-06-18-s29.md`](../experiments/2026-06-18-s29.md) | Public | Adaptive boundary probe, score 33.560 |
 | 2026-06-18 | [`2026-06-18-s30.md`](../experiments/2026-06-18-s30.md) | Public | Adaptive boundary probe, score 33.940 |
-| 2026-06-19 | [`2026-06-19-s31.md`](../experiments/2026-06-19-s31.md) | Public | Pending short static direct benchmark |
-| 2026-06-19 | [`2026-06-19-s32.md`](../experiments/2026-06-19-s32.md) | Public | Pending short static direct benchmark |
-| 2026-06-19 | [`2026-06-19-s33.md`](../experiments/2026-06-19-s33.md) | Public | Pending short static direct benchmark |
-| 2026-06-19 | [`2026-06-19-s34.md`](../experiments/2026-06-19-s34.md) | Public | Pending short static direct benchmark |
-| 2026-06-19 | [`2026-06-19-s35.md`](../experiments/2026-06-19-s35.md) | Public | Pending short static direct benchmark |
+| 2026-06-19 | [`2026-06-19-s31.md`](../experiments/2026-06-19-s31.md) | Public | Short static direct benchmark, score 36.000 |
+| 2026-06-19 | [`2026-06-19-s32.md`](../experiments/2026-06-19-s32.md) | Public | Short static direct benchmark, score 40.500 |
+| 2026-06-19 | [`2026-06-19-s33.md`](../experiments/2026-06-19-s33.md) | Public | Short static direct benchmark, score 45.000 |
+| 2026-06-19 | [`2026-06-19-s34.md`](../experiments/2026-06-19-s34.md) | Public | Short static direct benchmark, public score not reported |
+| 2026-06-19 | [`2026-06-19-s35.md`](../experiments/2026-06-19-s35.md) | Public | Short static direct benchmark, public score not reported |
