@@ -38,3 +38,4 @@
 | 2026-06-19 | [`2026-06-19-s33.md`](../experiments/2026-06-19-s33.md) | Public | Short static direct benchmark, score 45.000 |
 | 2026-06-19 | [`2026-06-19-s34.md`](../experiments/2026-06-19-s34.md) | Public | Short static direct benchmark, public score not reported |
 | 2026-06-19 | [`2026-06-19-s35.md`](../experiments/2026-06-19-s35.md) | Public | Short static direct benchmark, public score not reported |
+| 2026-06-20 | [`2026-06-20-s36.md`](../experiments/2026-06-20-s36.md) | Public | Pending short static direct boundary probe |

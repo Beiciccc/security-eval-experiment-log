@@ -69,3 +69,4 @@
 
 - Recorded completed statuses for s31 through s35.
 - Recorded public scores for s31, s32, and s33.
+- Added pending record for s36.
