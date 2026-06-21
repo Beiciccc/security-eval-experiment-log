@@ -81,3 +81,4 @@
 - Recorded public scores for s36, s37, s38, and s40.
 - Added pending record for s41.
 - Added pending record for s42.
+- Added pending record for s43.
