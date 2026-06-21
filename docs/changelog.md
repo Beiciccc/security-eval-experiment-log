@@ -83,3 +83,4 @@
 - Added pending record for s42.
 - Added pending record for s43.
 - Added pending record for s44.
+- Added pending record for s45.
