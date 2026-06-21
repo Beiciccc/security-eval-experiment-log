@@ -79,3 +79,4 @@
 
 - Recorded completed statuses for s36 through s40.
 - Recorded public scores for s36, s37, s38, and s40.
+- Added pending record for s41.
