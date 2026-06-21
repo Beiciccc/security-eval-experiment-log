@@ -38,8 +38,8 @@
 | 2026-06-19 | [`2026-06-19-s33.md`](../experiments/2026-06-19-s33.md) | Public | Short static direct benchmark, score 45.000 |
 | 2026-06-19 | [`2026-06-19-s34.md`](../experiments/2026-06-19-s34.md) | Public | Short static direct benchmark, public score not reported |
 | 2026-06-19 | [`2026-06-19-s35.md`](../experiments/2026-06-19-s35.md) | Public | Short static direct benchmark, public score not reported |
-| 2026-06-20 | [`2026-06-20-s36.md`](../experiments/2026-06-20-s36.md) | Public | Pending short static direct boundary probe |
-| 2026-06-20 | [`2026-06-20-s37.md`](../experiments/2026-06-20-s37.md) | Public | Pending short static direct boundary probe |
-| 2026-06-20 | [`2026-06-20-s38.md`](../experiments/2026-06-20-s38.md) | Public | Pending compact static direct boundary probe |
-| 2026-06-20 | [`2026-06-20-s39.md`](../experiments/2026-06-20-s39.md) | Public | Pending compact static direct boundary probe |
-| 2026-06-20 | [`2026-06-20-s40.md`](../experiments/2026-06-20-s40.md) | Public | Pending compact static direct boundary probe |
+| 2026-06-20 | [`2026-06-20-s36.md`](../experiments/2026-06-20-s36.md) | Public | Short static direct boundary probe, score 45.900 |
+| 2026-06-20 | [`2026-06-20-s37.md`](../experiments/2026-06-20-s37.md) | Public | Short static direct boundary probe, score 47.250 |
+| 2026-06-20 | [`2026-06-20-s38.md`](../experiments/2026-06-20-s38.md) | Public | Compact static direct boundary probe, score 49.500 |
+| 2026-06-20 | [`2026-06-20-s39.md`](../experiments/2026-06-20-s39.md) | Public | Compact static direct boundary probe, public score not reported |
+| 2026-06-20 | [`2026-06-20-s40.md`](../experiments/2026-06-20-s40.md) | Public | Compact static direct boundary probe, score 54.000 |

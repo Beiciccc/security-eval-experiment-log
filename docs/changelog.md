@@ -74,3 +74,8 @@
 - Added pending record for s38.
 - Added pending record for s39.
 - Added pending record for s40.
+
+## 2026-06-21
+
+- Recorded completed statuses for s36 through s40.
+- Recorded public scores for s36, s37, s38, and s40.

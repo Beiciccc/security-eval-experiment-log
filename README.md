@@ -59,6 +59,10 @@ Latest completed public scores:
 - `s31`: public score `36.000`
 - `s32`: public score `40.500`
 - `s33`: public score `45.000`
+- `s36`: public score `45.900`
+- `s37`: public score `47.250`
+- `s38`: public score `49.500`
+- `s40`: public score `54.000`
 
 Completed without a reported public score:
 
@@ -72,14 +76,11 @@ Completed without a reported public score:
 - `s28`
 - `s34`
 - `s35`
+- `s39`
 
 Accepted submissions pending public scores:
 
-- `s36`
-- `s37`
-- `s38`
-- `s39`
-- `s40`
+- None
 
 ## Data
 
