@@ -44,3 +44,4 @@
 | 2026-06-20 | [`2026-06-20-s39.md`](../experiments/2026-06-20-s39.md) | Public | Compact static direct boundary probe, public score not reported |
 | 2026-06-20 | [`2026-06-20-s40.md`](../experiments/2026-06-20-s40.md) | Public | Compact static direct boundary probe, score 54.000 |
 | 2026-06-21 | [`2026-06-21-s41.md`](../experiments/2026-06-21-s41.md) | Public | Compact static direct boundary probe, score pending |
+| 2026-06-21 | [`2026-06-21-s42.md`](../experiments/2026-06-21-s42.md) | Public | Compact static direct boundary probe, score pending |
