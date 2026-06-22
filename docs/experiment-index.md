@@ -49,3 +49,4 @@
 | 2026-06-21 | [`2026-06-21-s44.md`](../experiments/2026-06-21-s44.md) | Public | Compact static direct boundary probe, public score not reported |
 | 2026-06-21 | [`2026-06-21-s45.md`](../experiments/2026-06-21-s45.md) | Public | Compact static direct boundary probe, public score not reported |
 | 2026-06-22 | [`2026-06-22-s46.md`](../experiments/2026-06-22-s46.md) | Public | Short-root static direct boundary probe, score pending |
+| 2026-06-22 | [`2026-06-22-s47.md`](../experiments/2026-06-22-s47.md) | Public | Short-root static direct boundary probe, score pending |
