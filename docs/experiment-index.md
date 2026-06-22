@@ -52,3 +52,4 @@
 | 2026-06-22 | [`2026-06-22-s47.md`](../experiments/2026-06-22-s47.md) | Public | Short-root static direct boundary probe, score pending |
 | 2026-06-22 | [`2026-06-22-s48.md`](../experiments/2026-06-22-s48.md) | Public | Short-root static direct boundary probe, score pending |
 | 2026-06-22 | [`2026-06-22-s49.md`](../experiments/2026-06-22-s49.md) | Public | Short-root static direct boundary probe, score pending |
+| 2026-06-22 | [`2026-06-22-s50.md`](../experiments/2026-06-22-s50.md) | Public | Short-root static direct boundary probe, score pending |
