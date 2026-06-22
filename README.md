@@ -77,14 +77,15 @@ Completed without a reported public score:
 - `s34`
 - `s35`
 - `s39`
-
-Accepted submissions pending public scores:
-
 - `s41`
 - `s42`
 - `s43`
 - `s44`
 - `s45`
+
+Accepted submissions pending public scores:
+
+- None
 
 ## Data
 
