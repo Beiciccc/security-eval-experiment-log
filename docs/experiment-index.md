@@ -57,3 +57,4 @@
 | 2026-06-23 | [`2026-06-23-s52.md`](../experiments/2026-06-23-s52.md) | Public | Ultra-short static direct boundary probe, score pending |
 | 2026-06-23 | [`2026-06-23-s53.md`](../experiments/2026-06-23-s53.md) | Public | Ultra-short static direct boundary probe, score pending |
 | 2026-06-23 | [`2026-06-23-s54.md`](../experiments/2026-06-23-s54.md) | Public | Ultra-short static direct boundary probe, score pending |
+| 2026-06-23 | [`2026-06-23-s55.md`](../experiments/2026-06-23-s55.md) | Public | Ultra-short static direct boundary probe, score pending |
