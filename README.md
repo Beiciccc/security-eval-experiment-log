@@ -91,6 +91,7 @@ Accepted submissions pending public scores:
 - `s49`
 - `s50`
 - `s51`
+- `s52`
 
 ## Data
 
