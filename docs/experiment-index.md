@@ -58,3 +58,4 @@
 | 2026-06-23 | [`2026-06-23-s53.md`](../experiments/2026-06-23-s53.md) | Public | Ultra-short static direct boundary probe, evaluation error |
 | 2026-06-23 | [`2026-06-23-s54.md`](../experiments/2026-06-23-s54.md) | Public | Ultra-short static direct boundary probe, evaluation error |
 | 2026-06-23 | [`2026-06-23-s55.md`](../experiments/2026-06-23-s55.md) | Public | Ultra-short static direct boundary probe, evaluation error |
+| 2026-06-24 | [`2026-06-24-s56.md`](../experiments/2026-06-24-s56.md) | Public | Short-root static direct boundary probe, score pending |

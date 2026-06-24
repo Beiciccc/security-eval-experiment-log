@@ -54,3 +54,4 @@ date,submission,status,public_score,notes
 2026-06-23,s53,error,,ultra-short static direct boundary probe returned evaluation error
 2026-06-23,s54,error,,ultra-short static direct boundary probe returned evaluation error
 2026-06-23,s55,error,,ultra-short static direct boundary probe returned evaluation error
+2026-06-24,s56,pending,,short-root static direct boundary probe accepted; score pending
