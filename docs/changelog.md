@@ -108,3 +108,4 @@
 - Recorded evaluation-error outcomes for s51 through s55.
 - Added pending record for s56.
 - Added pending record for s57.
+- Added pending record for s58.
