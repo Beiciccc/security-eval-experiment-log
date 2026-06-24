@@ -109,3 +109,4 @@
 - Added pending record for s56.
 - Added pending record for s57.
 - Added pending record for s58.
+- Added pending record for s59.

@@ -61,3 +61,4 @@
 | 2026-06-24 | [`2026-06-24-s56.md`](../experiments/2026-06-24-s56.md) | Public | Short-root static direct boundary probe, score pending |
 | 2026-06-24 | [`2026-06-24-s57.md`](../experiments/2026-06-24-s57.md) | Public | Short-root static direct boundary probe, score pending |
 | 2026-06-24 | [`2026-06-24-s58.md`](../experiments/2026-06-24-s58.md) | Public | Short-root static direct boundary probe, score pending |
+| 2026-06-24 | [`2026-06-24-s59.md`](../experiments/2026-06-24-s59.md) | Public | Two-letter domain static direct boundary probe, score pending |
