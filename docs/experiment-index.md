@@ -48,13 +48,13 @@
 | 2026-06-21 | [`2026-06-21-s43.md`](../experiments/2026-06-21-s43.md) | Public | Compact static direct boundary probe, public score not reported |
 | 2026-06-21 | [`2026-06-21-s44.md`](../experiments/2026-06-21-s44.md) | Public | Compact static direct boundary probe, public score not reported |
 | 2026-06-21 | [`2026-06-21-s45.md`](../experiments/2026-06-21-s45.md) | Public | Compact static direct boundary probe, public score not reported |
-| 2026-06-22 | [`2026-06-22-s46.md`](../experiments/2026-06-22-s46.md) | Public | Short-root static direct boundary probe, score pending |
-| 2026-06-22 | [`2026-06-22-s47.md`](../experiments/2026-06-22-s47.md) | Public | Short-root static direct boundary probe, score pending |
-| 2026-06-22 | [`2026-06-22-s48.md`](../experiments/2026-06-22-s48.md) | Public | Short-root static direct boundary probe, score pending |
-| 2026-06-22 | [`2026-06-22-s49.md`](../experiments/2026-06-22-s49.md) | Public | Short-root static direct boundary probe, score pending |
-| 2026-06-22 | [`2026-06-22-s50.md`](../experiments/2026-06-22-s50.md) | Public | Short-root static direct boundary probe, score pending |
-| 2026-06-23 | [`2026-06-23-s51.md`](../experiments/2026-06-23-s51.md) | Public | Ultra-short static direct boundary probe, score pending |
-| 2026-06-23 | [`2026-06-23-s52.md`](../experiments/2026-06-23-s52.md) | Public | Ultra-short static direct boundary probe, score pending |
-| 2026-06-23 | [`2026-06-23-s53.md`](../experiments/2026-06-23-s53.md) | Public | Ultra-short static direct boundary probe, score pending |
-| 2026-06-23 | [`2026-06-23-s54.md`](../experiments/2026-06-23-s54.md) | Public | Ultra-short static direct boundary probe, score pending |
-| 2026-06-23 | [`2026-06-23-s55.md`](../experiments/2026-06-23-s55.md) | Public | Ultra-short static direct boundary probe, score pending |
+| 2026-06-22 | [`2026-06-22-s46.md`](../experiments/2026-06-22-s46.md) | Public | Short-root static direct boundary probe, score 57.240 |
+| 2026-06-22 | [`2026-06-22-s47.md`](../experiments/2026-06-22-s47.md) | Public | Short-root static direct boundary probe, score 57.600 |
+| 2026-06-22 | [`2026-06-22-s48.md`](../experiments/2026-06-22-s48.md) | Public | Short-root static direct boundary probe, score 57.690 |
+| 2026-06-22 | [`2026-06-22-s49.md`](../experiments/2026-06-22-s49.md) | Public | Short-root static direct boundary probe, score 57.780 |
+| 2026-06-22 | [`2026-06-22-s50.md`](../experiments/2026-06-22-s50.md) | Public | Short-root static direct boundary probe, score 57.960 |
+| 2026-06-23 | [`2026-06-23-s51.md`](../experiments/2026-06-23-s51.md) | Public | Ultra-short static direct boundary probe, evaluation error |
+| 2026-06-23 | [`2026-06-23-s52.md`](../experiments/2026-06-23-s52.md) | Public | Ultra-short static direct boundary probe, evaluation error |
+| 2026-06-23 | [`2026-06-23-s53.md`](../experiments/2026-06-23-s53.md) | Public | Ultra-short static direct boundary probe, evaluation error |
+| 2026-06-23 | [`2026-06-23-s54.md`](../experiments/2026-06-23-s54.md) | Public | Ultra-short static direct boundary probe, evaluation error |
+| 2026-06-23 | [`2026-06-23-s55.md`](../experiments/2026-06-23-s55.md) | Public | Ultra-short static direct boundary probe, evaluation error |

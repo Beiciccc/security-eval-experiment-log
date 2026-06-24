@@ -101,3 +101,8 @@
 - Added pending record for s53.
 - Added pending record for s54.
 - Added pending record for s55.
+
+## 2026-06-24
+
+- Recorded completed public scores for s46 through s50.
+- Recorded evaluation-error outcomes for s51 through s55.
