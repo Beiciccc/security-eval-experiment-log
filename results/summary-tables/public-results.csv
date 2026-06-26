@@ -54,8 +54,8 @@ date,submission,status,public_score,notes
 2026-06-23,s53,error,,ultra-short static direct boundary probe returned evaluation error
 2026-06-23,s54,error,,ultra-short static direct boundary probe returned evaluation error
 2026-06-23,s55,error,,ultra-short static direct boundary probe returned evaluation error
-2026-06-24,s56,pending,,short-root static direct boundary probe accepted; score pending
-2026-06-24,s57,pending,,short-root static direct boundary probe accepted; score pending
-2026-06-24,s58,pending,,short-root static direct boundary probe accepted; score pending
-2026-06-24,s59,pending,,two-letter domain static direct boundary probe accepted; score pending
-2026-06-24,s60,pending,,two-letter domain static direct boundary probe accepted; score pending
+2026-06-24,s56,complete,,short-root static direct boundary probe completed; public score not reported
+2026-06-24,s57,complete,,short-root static direct boundary probe completed; public score not reported
+2026-06-24,s58,complete,,short-root static direct boundary probe completed; public score not reported
+2026-06-24,s59,complete,,two-letter domain static direct boundary probe completed; public score not reported
+2026-06-24,s60,complete,,two-letter domain static direct boundary probe completed; public score not reported

@@ -87,6 +87,11 @@ Completed without a reported public score:
 - `s43`
 - `s44`
 - `s45`
+- `s56`
+- `s57`
+- `s58`
+- `s59`
+- `s60`
 
 Returned without a public score due to evaluation errors:
 
@@ -95,14 +100,6 @@ Returned without a public score due to evaluation errors:
 - `s53`
 - `s54`
 - `s55`
-
-Accepted submissions pending public scores:
-
-- `s56`
-- `s57`
-- `s58`
-- `s59`
-- `s60`
 
 ## Data
 
