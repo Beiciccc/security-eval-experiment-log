@@ -119,3 +119,4 @@
 ## 2026-06-29
 
 - Added pending record for s61.
+- Added pending record for s62.
