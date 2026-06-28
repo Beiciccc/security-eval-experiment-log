@@ -101,6 +101,10 @@ Returned without a public score due to evaluation errors:
 - `s54`
 - `s55`
 
+Accepted submissions pending public scores:
+
+- `s61`
+
 ## Data
 
 Competition files are stored in an ignored local directory. Raw downloads and local caches are not committed. Public data notes are maintained in `public_data/`.
