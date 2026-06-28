@@ -67,3 +67,4 @@
 | 2026-06-29 | [`2026-06-29-s62.md`](../experiments/2026-06-29-s62.md) | Public | Short external-marker static direct probe, score pending |
 | 2026-06-29 | [`2026-06-29-s63.md`](../experiments/2026-06-29-s63.md) | Public | Short external-marker static direct probe, score pending |
 | 2026-06-29 | [`2026-06-29-s64.md`](../experiments/2026-06-29-s64.md) | Public | Short external-marker static direct probe, score pending |
+| 2026-06-29 | [`2026-06-29-s65.md`](../experiments/2026-06-29-s65.md) | Public | Short external-marker static direct probe, score pending |
