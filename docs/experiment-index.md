@@ -70,3 +70,4 @@
 | 2026-06-29 | [`2026-06-29-s65.md`](../experiments/2026-06-29-s65.md) | Public | Short external-marker static direct probe, public score not reported |
 | 2026-06-30 | [`2026-06-30-s66.md`](../experiments/2026-06-30-s66.md) | Public | Lower-count marker anchor, score pending |
 | 2026-06-30 | [`2026-06-30-s67.md`](../experiments/2026-06-30-s67.md) | Public | Lower-count marker anchor, score pending |
+| 2026-06-30 | [`2026-06-30-s68.md`](../experiments/2026-06-30-s68.md) | Public | Lower-count marker anchor, score pending |
