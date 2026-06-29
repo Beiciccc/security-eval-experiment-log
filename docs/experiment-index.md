@@ -71,3 +71,4 @@
 | 2026-06-30 | [`2026-06-30-s66.md`](../experiments/2026-06-30-s66.md) | Public | Lower-count marker anchor, score pending |
 | 2026-06-30 | [`2026-06-30-s67.md`](../experiments/2026-06-30-s67.md) | Public | Lower-count marker anchor, score pending |
 | 2026-06-30 | [`2026-06-30-s68.md`](../experiments/2026-06-30-s68.md) | Public | Lower-count marker anchor, score pending |
+| 2026-06-30 | [`2026-06-30-s69.md`](../experiments/2026-06-30-s69.md) | Public | Lower-count marker anchor, score pending |

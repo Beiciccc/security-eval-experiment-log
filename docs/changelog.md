@@ -130,3 +130,4 @@
 - Added pending record for s66.
 - Added pending record for s67.
 - Added pending record for s68.
+- Added pending record for s69.
