@@ -123,3 +123,4 @@
 - Added pending record for s63.
 - Added pending record for s64.
 - Added pending record for s65.
+- Recorded completed statuses for s61 through s65.

@@ -63,8 +63,8 @@
 | 2026-06-24 | [`2026-06-24-s58.md`](../experiments/2026-06-24-s58.md) | Public | Short-root static direct boundary probe, public score not reported |
 | 2026-06-24 | [`2026-06-24-s59.md`](../experiments/2026-06-24-s59.md) | Public | Two-letter domain static direct boundary probe, public score not reported |
 | 2026-06-24 | [`2026-06-24-s60.md`](../experiments/2026-06-24-s60.md) | Public | Two-letter domain static direct boundary probe, public score not reported |
-| 2026-06-29 | [`2026-06-29-s61.md`](../experiments/2026-06-29-s61.md) | Public | Short external-marker static direct probe, score pending |
-| 2026-06-29 | [`2026-06-29-s62.md`](../experiments/2026-06-29-s62.md) | Public | Short external-marker static direct probe, score pending |
-| 2026-06-29 | [`2026-06-29-s63.md`](../experiments/2026-06-29-s63.md) | Public | Short external-marker static direct probe, score pending |
-| 2026-06-29 | [`2026-06-29-s64.md`](../experiments/2026-06-29-s64.md) | Public | Short external-marker static direct probe, score pending |
-| 2026-06-29 | [`2026-06-29-s65.md`](../experiments/2026-06-29-s65.md) | Public | Short external-marker static direct probe, score pending |
+| 2026-06-29 | [`2026-06-29-s61.md`](../experiments/2026-06-29-s61.md) | Public | Short external-marker static direct probe, public score not reported |
+| 2026-06-29 | [`2026-06-29-s62.md`](../experiments/2026-06-29-s62.md) | Public | Short external-marker static direct probe, public score not reported |
+| 2026-06-29 | [`2026-06-29-s63.md`](../experiments/2026-06-29-s63.md) | Public | Short external-marker static direct probe, public score not reported |
+| 2026-06-29 | [`2026-06-29-s64.md`](../experiments/2026-06-29-s64.md) | Public | Short external-marker static direct probe, public score not reported |
+| 2026-06-29 | [`2026-06-29-s65.md`](../experiments/2026-06-29-s65.md) | Public | Short external-marker static direct probe, public score not reported |

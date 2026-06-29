@@ -59,8 +59,8 @@ date,submission,status,public_score,notes
 2026-06-24,s58,complete,,short-root static direct boundary probe completed; public score not reported
 2026-06-24,s59,complete,,two-letter domain static direct boundary probe completed; public score not reported
 2026-06-24,s60,complete,,two-letter domain static direct boundary probe completed; public score not reported
-2026-06-29,s61,pending,,short external-marker static direct probe accepted; score pending
-2026-06-29,s62,pending,,short external-marker static direct probe accepted; score pending
-2026-06-29,s63,pending,,short external-marker static direct probe accepted; score pending
-2026-06-29,s64,pending,,short external-marker static direct probe accepted; score pending
-2026-06-29,s65,pending,,short external-marker static direct probe accepted; score pending
+2026-06-29,s61,complete,,short external-marker static direct probe completed; public score not reported
+2026-06-29,s62,complete,,short external-marker static direct probe completed; public score not reported
+2026-06-29,s63,complete,,short external-marker static direct probe completed; public score not reported
+2026-06-29,s64,complete,,short external-marker static direct probe completed; public score not reported
+2026-06-29,s65,complete,,short external-marker static direct probe completed; public score not reported
