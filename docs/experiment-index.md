@@ -68,8 +68,8 @@
 | 2026-06-29 | [`2026-06-29-s63.md`](../experiments/2026-06-29-s63.md) | Public | Short external-marker static direct probe, public score not reported |
 | 2026-06-29 | [`2026-06-29-s64.md`](../experiments/2026-06-29-s64.md) | Public | Short external-marker static direct probe, public score not reported |
 | 2026-06-29 | [`2026-06-29-s65.md`](../experiments/2026-06-29-s65.md) | Public | Short external-marker static direct probe, public score not reported |
-| 2026-06-30 | [`2026-06-30-s66.md`](../experiments/2026-06-30-s66.md) | Public | Lower-count marker anchor, score pending |
-| 2026-06-30 | [`2026-06-30-s67.md`](../experiments/2026-06-30-s67.md) | Public | Lower-count marker anchor, score pending |
-| 2026-06-30 | [`2026-06-30-s68.md`](../experiments/2026-06-30-s68.md) | Public | Lower-count marker anchor, score pending |
-| 2026-06-30 | [`2026-06-30-s69.md`](../experiments/2026-06-30-s69.md) | Public | Lower-count marker anchor, score pending |
-| 2026-06-30 | [`2026-06-30-s70.md`](../experiments/2026-06-30-s70.md) | Public | Lower-count marker anchor, score pending |
+| 2026-06-30 | [`2026-06-30-s66.md`](../experiments/2026-06-30-s66.md) | Public | Lower-count marker anchor, score 22.500 |
+| 2026-06-30 | [`2026-06-30-s67.md`](../experiments/2026-06-30-s67.md) | Public | Lower-count marker anchor, score 27.000 |
+| 2026-06-30 | [`2026-06-30-s68.md`](../experiments/2026-06-30-s68.md) | Public | Lower-count marker anchor, score 32.400 |
+| 2026-06-30 | [`2026-06-30-s69.md`](../experiments/2026-06-30-s69.md) | Public | Lower-count marker anchor, score 37.800 |
+| 2026-06-30 | [`2026-06-30-s70.md`](../experiments/2026-06-30-s70.md) | Public | Lower-count marker anchor, score 43.200 |

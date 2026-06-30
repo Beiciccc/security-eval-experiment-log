@@ -64,8 +64,8 @@ date,submission,status,public_score,notes
 2026-06-29,s63,complete,,short external-marker static direct probe completed; public score not reported
 2026-06-29,s64,complete,,short external-marker static direct probe completed; public score not reported
 2026-06-29,s65,complete,,short external-marker static direct probe completed; public score not reported
-2026-06-30,s66,pending,,lower-count marker anchor accepted; score pending
-2026-06-30,s67,pending,,lower-count marker anchor accepted; score pending
-2026-06-30,s68,pending,,lower-count marker anchor accepted; score pending
-2026-06-30,s69,pending,,lower-count marker anchor accepted; score pending
-2026-06-30,s70,pending,,lower-count marker anchor accepted; score pending
+2026-06-30,s66,complete,22.500,lower-count marker anchor completed
+2026-06-30,s67,complete,27.000,lower-count marker anchor completed
+2026-06-30,s68,complete,32.400,lower-count marker anchor completed
+2026-06-30,s69,complete,37.800,lower-count marker anchor completed
+2026-06-30,s70,complete,43.200,lower-count marker anchor completed
