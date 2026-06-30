@@ -117,6 +117,7 @@ Accepted submissions pending public scores:
 - `s72`
 - `s73`
 - `s74`
+- `s75`
 
 ## Data
 
