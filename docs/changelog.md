@@ -135,3 +135,4 @@
 - Recorded completed public scores for s66 through s70.
 - Added pending record for s71.
 - Added pending record for s72.
+- Added pending record for s73.
