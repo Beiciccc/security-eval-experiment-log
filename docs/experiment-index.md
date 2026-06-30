@@ -74,3 +74,4 @@
 | 2026-06-30 | [`2026-06-30-s69.md`](../experiments/2026-06-30-s69.md) | Public | Lower-count marker anchor, score 37.800 |
 | 2026-06-30 | [`2026-06-30-s70.md`](../experiments/2026-06-30-s70.md) | Public | Lower-count marker anchor, score 43.200 |
 | 2026-06-30 | [`2026-06-30-s71.md`](../experiments/2026-06-30-s71.md) | Public | Marker anchor continuation, score pending |
+| 2026-06-30 | [`2026-06-30-s72.md`](../experiments/2026-06-30-s72.md) | Public | Marker anchor continuation, score pending |
