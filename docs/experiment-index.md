@@ -79,3 +79,4 @@
 | 2026-06-30 | [`2026-06-30-s74.md`](../experiments/2026-06-30-s74.md) | Public | Marker anchor continuation, public score not reported |
 | 2026-06-30 | [`2026-06-30-s75.md`](../experiments/2026-06-30-s75.md) | Public | Marker anchor continuation, public score not reported |
 | 2026-07-01 | [`2026-07-01-s76.md`](../experiments/2026-07-01-s76.md) | Public | Marker boundary probe, score pending |
+| 2026-07-01 | [`2026-07-01-s77.md`](../experiments/2026-07-01-s77.md) | Public | Marker boundary probe, score pending |
