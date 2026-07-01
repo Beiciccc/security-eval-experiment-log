@@ -82,3 +82,4 @@
 | 2026-07-01 | [`2026-07-01-s77.md`](../experiments/2026-07-01-s77.md) | Public | Marker boundary probe, score pending |
 | 2026-07-01 | [`2026-07-01-s78.md`](../experiments/2026-07-01-s78.md) | Public | Marker boundary probe, score pending |
 | 2026-07-01 | [`2026-07-01-s79.md`](../experiments/2026-07-01-s79.md) | Public | Marker boundary probe, score pending |
+| 2026-07-01 | [`2026-07-01-s80.md`](../experiments/2026-07-01-s80.md) | Public | Short-root static direct control, score pending |
