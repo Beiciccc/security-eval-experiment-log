@@ -86,3 +86,4 @@
 | 2026-07-02 | [`2026-07-02-s81.md`](../experiments/2026-07-02-s81.md) | Public | Current marker sanity check, score pending |
 | 2026-07-02 | [`2026-07-02-s82.md`](../experiments/2026-07-02-s82.md) | Public | Marker boundary probe, score pending |
 | 2026-07-02 | [`2026-07-02-s83.md`](../experiments/2026-07-02-s83.md) | Public | Short-root token check, score pending |
+| 2026-07-02 | [`2026-07-02-s84.md`](../experiments/2026-07-02-s84.md) | Public | Legacy direct boundary check, score pending |

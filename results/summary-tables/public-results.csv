@@ -82,3 +82,4 @@ date,submission,status,public_score,notes
 2026-07-02,s81,pending,,current marker sanity check accepted; score pending
 2026-07-02,s82,pending,,marker boundary probe accepted; score pending
 2026-07-02,s83,pending,,short-root token check accepted; score pending
+2026-07-02,s84,pending,,legacy direct boundary check accepted; score pending
