@@ -124,6 +124,7 @@ Returned without a public score due to evaluation errors:
 Accepted submissions pending public scores:
 
 - `s81`
+- `s82`
 
 ## Data
 
