@@ -155,3 +155,4 @@
 - Added pending record for s82.
 - Added pending record for s83.
 - Added pending record for s84.
+- Added pending record for s85.
