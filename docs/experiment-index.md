@@ -78,8 +78,8 @@
 | 2026-06-30 | [`2026-06-30-s73.md`](../experiments/2026-06-30-s73.md) | Public | Marker anchor continuation, public score not reported |
 | 2026-06-30 | [`2026-06-30-s74.md`](../experiments/2026-06-30-s74.md) | Public | Marker anchor continuation, public score not reported |
 | 2026-06-30 | [`2026-06-30-s75.md`](../experiments/2026-06-30-s75.md) | Public | Marker anchor continuation, public score not reported |
-| 2026-07-01 | [`2026-07-01-s76.md`](../experiments/2026-07-01-s76.md) | Public | Marker boundary probe, score pending |
-| 2026-07-01 | [`2026-07-01-s77.md`](../experiments/2026-07-01-s77.md) | Public | Marker boundary probe, score pending |
-| 2026-07-01 | [`2026-07-01-s78.md`](../experiments/2026-07-01-s78.md) | Public | Marker boundary probe, score pending |
-| 2026-07-01 | [`2026-07-01-s79.md`](../experiments/2026-07-01-s79.md) | Public | Marker boundary probe, score pending |
-| 2026-07-01 | [`2026-07-01-s80.md`](../experiments/2026-07-01-s80.md) | Public | Short-root static direct control, score pending |
+| 2026-07-01 | [`2026-07-01-s76.md`](../experiments/2026-07-01-s76.md) | Public | Marker boundary probe, public score not reported |
+| 2026-07-01 | [`2026-07-01-s77.md`](../experiments/2026-07-01-s77.md) | Public | Marker boundary probe, public score not reported |
+| 2026-07-01 | [`2026-07-01-s78.md`](../experiments/2026-07-01-s78.md) | Public | Marker boundary probe, public score not reported |
+| 2026-07-01 | [`2026-07-01-s79.md`](../experiments/2026-07-01-s79.md) | Public | Marker boundary probe, public score not reported |
+| 2026-07-01 | [`2026-07-01-s80.md`](../experiments/2026-07-01-s80.md) | Public | Short-root static direct control, public score not reported |

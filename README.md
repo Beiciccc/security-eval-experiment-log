@@ -107,6 +107,11 @@ Completed without a reported public score:
 - `s73`
 - `s74`
 - `s75`
+- `s76`
+- `s77`
+- `s78`
+- `s79`
+- `s80`
 
 Returned without a public score due to evaluation errors:
 
@@ -118,11 +123,7 @@ Returned without a public score due to evaluation errors:
 
 Accepted submissions pending public scores:
 
-- `s76`
-- `s77`
-- `s78`
-- `s79`
-- `s80`
+- None
 
 ## Data
 
