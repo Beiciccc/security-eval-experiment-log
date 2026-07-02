@@ -81,3 +81,4 @@ date,submission,status,public_score,notes
 2026-07-01,s80,complete,,short-root static direct control completed; public score not reported
 2026-07-02,s81,pending,,current marker sanity check accepted; score pending
 2026-07-02,s82,pending,,marker boundary probe accepted; score pending
+2026-07-02,s83,pending,,short-root token check accepted; score pending
