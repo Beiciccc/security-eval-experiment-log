@@ -92,3 +92,4 @@
 | 2026-07-03 | [`2026-07-03-s87.md`](../experiments/2026-07-03-s87.md) | Public | Marker low-count step, score pending |
 | 2026-07-03 | [`2026-07-03-s88.md`](../experiments/2026-07-03-s88.md) | Public | Marker mid-count step, score pending |
 | 2026-07-03 | [`2026-07-03-s89.md`](../experiments/2026-07-03-s89.md) | Public | Marker upper-mid count step, score pending |
+| 2026-07-03 | [`2026-07-03-s90.md`](../experiments/2026-07-03-s90.md) | Public | Marker historical-count retest, score pending |
