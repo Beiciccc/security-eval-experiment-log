@@ -156,3 +156,7 @@
 - Added pending record for s83.
 - Added pending record for s84.
 - Added pending record for s85.
+
+## 2026-07-03
+
+- Recorded completed statuses for s81 through s85.
