@@ -88,3 +88,4 @@
 | 2026-07-02 | [`2026-07-02-s83.md`](../experiments/2026-07-02-s83.md) | Public | Short-root token check, public score not reported |
 | 2026-07-02 | [`2026-07-02-s84.md`](../experiments/2026-07-02-s84.md) | Public | Legacy direct boundary check, public score not reported |
 | 2026-07-02 | [`2026-07-02-s85.md`](../experiments/2026-07-02-s85.md) | Public | Phrase mix check, public score not reported |
+| 2026-07-03 | [`2026-07-03-s86.md`](../experiments/2026-07-03-s86.md) | Public | Marker repeat sanity check, score pending |
