@@ -130,6 +130,7 @@ Accepted submissions pending public scores:
 
 - `s86`
 - `s87`
+- `s88`
 
 ## Data
 
