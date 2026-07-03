@@ -161,3 +161,4 @@
 
 - Recorded completed statuses for s81 through s85.
 - Added pending record for s86.
+- Added pending record for s87.
