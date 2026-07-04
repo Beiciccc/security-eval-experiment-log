@@ -165,3 +165,7 @@
 - Added pending record for s88.
 - Added pending record for s89.
 - Added pending record for s90.
+
+## 2026-07-04
+
+- Recorded completed public scores for s86 through s90.

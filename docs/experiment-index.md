@@ -88,8 +88,8 @@
 | 2026-07-02 | [`2026-07-02-s83.md`](../experiments/2026-07-02-s83.md) | Public | Short-root token check, public score not reported |
 | 2026-07-02 | [`2026-07-02-s84.md`](../experiments/2026-07-02-s84.md) | Public | Legacy direct boundary check, public score not reported |
 | 2026-07-02 | [`2026-07-02-s85.md`](../experiments/2026-07-02-s85.md) | Public | Phrase mix check, public score not reported |
-| 2026-07-03 | [`2026-07-03-s86.md`](../experiments/2026-07-03-s86.md) | Public | Marker repeat sanity check, score pending |
-| 2026-07-03 | [`2026-07-03-s87.md`](../experiments/2026-07-03-s87.md) | Public | Marker low-count step, score pending |
-| 2026-07-03 | [`2026-07-03-s88.md`](../experiments/2026-07-03-s88.md) | Public | Marker mid-count step, score pending |
-| 2026-07-03 | [`2026-07-03-s89.md`](../experiments/2026-07-03-s89.md) | Public | Marker upper-mid count step, score pending |
-| 2026-07-03 | [`2026-07-03-s90.md`](../experiments/2026-07-03-s90.md) | Public | Marker historical-count retest, score pending |
+| 2026-07-03 | [`2026-07-03-s86.md`](../experiments/2026-07-03-s86.md) | Public | Marker repeat sanity check, score 27.000 |
+| 2026-07-03 | [`2026-07-03-s87.md`](../experiments/2026-07-03-s87.md) | Public | Marker low-count step, score 30.600 |
+| 2026-07-03 | [`2026-07-03-s88.md`](../experiments/2026-07-03-s88.md) | Public | Marker mid-count step, score 34.200 |
+| 2026-07-03 | [`2026-07-03-s89.md`](../experiments/2026-07-03-s89.md) | Public | Marker upper-mid count step, score 36.000 |
+| 2026-07-03 | [`2026-07-03-s90.md`](../experiments/2026-07-03-s90.md) | Public | Marker historical-count retest, score 37.800 |

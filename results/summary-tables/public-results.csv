@@ -84,8 +84,8 @@ date,submission,status,public_score,notes
 2026-07-02,s83,complete,,short-root token check completed; public score not reported
 2026-07-02,s84,complete,,legacy direct boundary check completed; public score not reported
 2026-07-02,s85,complete,,phrase mix check completed; public score not reported
-2026-07-03,s86,pending,,marker repeat sanity check accepted; score pending
-2026-07-03,s87,pending,,marker low-count step accepted; score pending
-2026-07-03,s88,pending,,marker mid-count step accepted; score pending
-2026-07-03,s89,pending,,marker upper-mid count step accepted; score pending
-2026-07-03,s90,pending,,marker historical-count retest accepted; score pending
+2026-07-03,s86,complete,27.000,marker repeat sanity check completed
+2026-07-03,s87,complete,30.600,marker low-count step completed
+2026-07-03,s88,complete,34.200,marker mid-count step completed
+2026-07-03,s89,complete,36.000,marker upper-mid count step completed
+2026-07-03,s90,complete,37.800,marker historical-count retest completed
