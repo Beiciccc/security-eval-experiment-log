@@ -93,3 +93,4 @@
 | 2026-07-03 | [`2026-07-03-s88.md`](../experiments/2026-07-03-s88.md) | Public | Marker mid-count step, score 34.200 |
 | 2026-07-03 | [`2026-07-03-s89.md`](../experiments/2026-07-03-s89.md) | Public | Marker upper-mid count step, score 36.000 |
 | 2026-07-03 | [`2026-07-03-s90.md`](../experiments/2026-07-03-s90.md) | Public | Marker historical-count retest, score 37.800 |
+| 2026-07-04 | [`2026-07-04-s91.md`](../experiments/2026-07-04-s91.md) | Public | Marker boundary step, score pending |
