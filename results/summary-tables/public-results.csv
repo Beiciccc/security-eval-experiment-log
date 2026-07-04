@@ -91,3 +91,4 @@ date,submission,status,public_score,notes
 2026-07-03,s90,complete,37.800,marker historical-count retest completed
 2026-07-04,s91,pending,,marker boundary step accepted; score pending
 2026-07-04,s92,pending,,marker boundary midpoint accepted; score pending
+2026-07-04,s93,pending,,marker upper-boundary probe accepted; score pending
