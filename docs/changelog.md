@@ -170,3 +170,4 @@
 
 - Recorded completed public scores for s86 through s90.
 - Added pending record for s91.
+- Added pending record for s92.
