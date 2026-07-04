@@ -97,3 +97,4 @@
 | 2026-07-04 | [`2026-07-04-s92.md`](../experiments/2026-07-04-s92.md) | Public | Marker boundary midpoint, score pending |
 | 2026-07-04 | [`2026-07-04-s93.md`](../experiments/2026-07-04-s93.md) | Public | Marker upper-boundary probe, score pending |
 | 2026-07-04 | [`2026-07-04-s94.md`](../experiments/2026-07-04-s94.md) | Public | Marker near-boundary probe, score pending |
+| 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score pending |
