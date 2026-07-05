@@ -94,3 +94,4 @@ date,submission,status,public_score,notes
 2026-07-04,s93,complete,42.120,marker upper-boundary probe completed
 2026-07-04,s94,complete,42.840,marker near-boundary probe completed
 2026-07-04,s95,complete,43.200,marker historical-frontier retest completed
+2026-07-05,s96,pending,,marker frontier control accepted; score pending
