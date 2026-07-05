@@ -174,3 +174,7 @@
 - Added pending record for s93.
 - Added pending record for s94.
 - Added pending record for s95.
+
+## 2026-07-05
+
+- Recorded completed public scores for s91 through s95.

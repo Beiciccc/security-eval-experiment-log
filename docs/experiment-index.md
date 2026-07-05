@@ -93,8 +93,8 @@
 | 2026-07-03 | [`2026-07-03-s88.md`](../experiments/2026-07-03-s88.md) | Public | Marker mid-count step, score 34.200 |
 | 2026-07-03 | [`2026-07-03-s89.md`](../experiments/2026-07-03-s89.md) | Public | Marker upper-mid count step, score 36.000 |
 | 2026-07-03 | [`2026-07-03-s90.md`](../experiments/2026-07-03-s90.md) | Public | Marker historical-count retest, score 37.800 |
-| 2026-07-04 | [`2026-07-04-s91.md`](../experiments/2026-07-04-s91.md) | Public | Marker boundary step, score pending |
-| 2026-07-04 | [`2026-07-04-s92.md`](../experiments/2026-07-04-s92.md) | Public | Marker boundary midpoint, score pending |
-| 2026-07-04 | [`2026-07-04-s93.md`](../experiments/2026-07-04-s93.md) | Public | Marker upper-boundary probe, score pending |
-| 2026-07-04 | [`2026-07-04-s94.md`](../experiments/2026-07-04-s94.md) | Public | Marker near-boundary probe, score pending |
-| 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score pending |
+| 2026-07-04 | [`2026-07-04-s91.md`](../experiments/2026-07-04-s91.md) | Public | Marker boundary step, score 39.600 |
+| 2026-07-04 | [`2026-07-04-s92.md`](../experiments/2026-07-04-s92.md) | Public | Marker boundary midpoint, score 41.040 |
+| 2026-07-04 | [`2026-07-04-s93.md`](../experiments/2026-07-04-s93.md) | Public | Marker upper-boundary probe, score 42.120 |
+| 2026-07-04 | [`2026-07-04-s94.md`](../experiments/2026-07-04-s94.md) | Public | Marker near-boundary probe, score 42.840 |
+| 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score 43.200 |

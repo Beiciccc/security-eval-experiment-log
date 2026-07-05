@@ -89,8 +89,8 @@ date,submission,status,public_score,notes
 2026-07-03,s88,complete,34.200,marker mid-count step completed
 2026-07-03,s89,complete,36.000,marker upper-mid count step completed
 2026-07-03,s90,complete,37.800,marker historical-count retest completed
-2026-07-04,s91,pending,,marker boundary step accepted; score pending
-2026-07-04,s92,pending,,marker boundary midpoint accepted; score pending
-2026-07-04,s93,pending,,marker upper-boundary probe accepted; score pending
-2026-07-04,s94,pending,,marker near-boundary probe accepted; score pending
-2026-07-04,s95,pending,,marker historical-frontier retest accepted; score pending
+2026-07-04,s91,complete,39.600,marker boundary step completed
+2026-07-04,s92,complete,41.040,marker boundary midpoint completed
+2026-07-04,s93,complete,42.120,marker upper-boundary probe completed
+2026-07-04,s94,complete,42.840,marker near-boundary probe completed
+2026-07-04,s95,complete,43.200,marker historical-frontier retest completed
