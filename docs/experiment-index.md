@@ -101,3 +101,4 @@
 | 2026-07-05 | [`2026-07-05-s96.md`](../experiments/2026-07-05-s96.md) | Public | Marker frontier control, score pending |
 | 2026-07-05 | [`2026-07-05-s97.md`](../experiments/2026-07-05-s97.md) | Public | Marker first-above-frontier probe, score pending |
 | 2026-07-05 | [`2026-07-05-s98.md`](../experiments/2026-07-05-s98.md) | Public | Marker gap midpoint probe, score pending |
+| 2026-07-05 | [`2026-07-05-s99.md`](../experiments/2026-07-05-s99.md) | Public | Marker highest-below-gap probe, score pending |
