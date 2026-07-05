@@ -142,6 +142,7 @@ Accepted submissions pending public scores:
 - `s97`
 - `s98`
 - `s99`
+- `s100`
 
 ## Data
 
