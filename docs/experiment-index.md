@@ -99,3 +99,4 @@
 | 2026-07-04 | [`2026-07-04-s94.md`](../experiments/2026-07-04-s94.md) | Public | Marker near-boundary probe, score 42.840 |
 | 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score 43.200 |
 | 2026-07-05 | [`2026-07-05-s96.md`](../experiments/2026-07-05-s96.md) | Public | Marker frontier control, score pending |
+| 2026-07-05 | [`2026-07-05-s97.md`](../experiments/2026-07-05-s97.md) | Public | Marker first-above-frontier probe, score pending |
