@@ -100,3 +100,4 @@
 | 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score 43.200 |
 | 2026-07-05 | [`2026-07-05-s96.md`](../experiments/2026-07-05-s96.md) | Public | Marker frontier control, score pending |
 | 2026-07-05 | [`2026-07-05-s97.md`](../experiments/2026-07-05-s97.md) | Public | Marker first-above-frontier probe, score pending |
+| 2026-07-05 | [`2026-07-05-s98.md`](../experiments/2026-07-05-s98.md) | Public | Marker gap midpoint probe, score pending |
