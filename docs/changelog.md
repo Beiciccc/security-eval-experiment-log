@@ -192,3 +192,4 @@
 - Added pending record for s102.
 - Added pending record for s103.
 - Added pending record for s104.
+- Added pending record for s105.
