@@ -183,3 +183,5 @@
 - Added pending record for s98.
 - Added pending record for s99.
 - Added pending record for s100.
+- Recorded completed statuses for s96 through s99.
+- Recorded completed public score for s100.

@@ -98,8 +98,8 @@
 | 2026-07-04 | [`2026-07-04-s93.md`](../experiments/2026-07-04-s93.md) | Public | Marker upper-boundary probe, score 42.120 |
 | 2026-07-04 | [`2026-07-04-s94.md`](../experiments/2026-07-04-s94.md) | Public | Marker near-boundary probe, score 42.840 |
 | 2026-07-04 | [`2026-07-04-s95.md`](../experiments/2026-07-04-s95.md) | Public | Marker historical-frontier retest, score 43.200 |
-| 2026-07-05 | [`2026-07-05-s96.md`](../experiments/2026-07-05-s96.md) | Public | Marker frontier control, score pending |
-| 2026-07-05 | [`2026-07-05-s97.md`](../experiments/2026-07-05-s97.md) | Public | Marker first-above-frontier probe, score pending |
-| 2026-07-05 | [`2026-07-05-s98.md`](../experiments/2026-07-05-s98.md) | Public | Marker gap midpoint probe, score pending |
-| 2026-07-05 | [`2026-07-05-s99.md`](../experiments/2026-07-05-s99.md) | Public | Marker highest-below-gap probe, score pending |
-| 2026-07-05 | [`2026-07-05-s100.md`](../experiments/2026-07-05-s100.md) | Public | Marker frontier control repeat, score pending |
+| 2026-07-05 | [`2026-07-05-s96.md`](../experiments/2026-07-05-s96.md) | Public | Marker frontier control, public score not reported |
+| 2026-07-05 | [`2026-07-05-s97.md`](../experiments/2026-07-05-s97.md) | Public | Marker first-above-frontier probe, public score not reported |
+| 2026-07-05 | [`2026-07-05-s98.md`](../experiments/2026-07-05-s98.md) | Public | Marker gap midpoint probe, public score not reported |
+| 2026-07-05 | [`2026-07-05-s99.md`](../experiments/2026-07-05-s99.md) | Public | Marker highest-below-gap probe, public score not reported |
+| 2026-07-05 | [`2026-07-05-s100.md`](../experiments/2026-07-05-s100.md) | Public | Marker frontier control repeat, score 43.200 |

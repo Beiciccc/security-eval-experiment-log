@@ -84,6 +84,7 @@ Latest completed public scores:
 - `s93`: public score `42.120`
 - `s94`: public score `42.840`
 - `s95`: public score `43.200`
+- `s100`: public score `43.200`
 
 Completed without a reported public score:
 
@@ -127,6 +128,10 @@ Completed without a reported public score:
 - `s83`
 - `s84`
 - `s85`
+- `s96`
+- `s97`
+- `s98`
+- `s99`
 
 Returned without a public score due to evaluation errors:
 
@@ -138,11 +143,7 @@ Returned without a public score due to evaluation errors:
 
 Accepted submissions pending public scores:
 
-- `s96`
-- `s97`
-- `s98`
-- `s99`
-- `s100`
+- None currently recorded.
 
 ## Data
 
