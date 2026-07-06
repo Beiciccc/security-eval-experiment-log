@@ -106,3 +106,4 @@
 | 2026-07-06 | [`2026-07-06-s101.md`](../experiments/2026-07-06-s101.md) | Public | Deadline-aware short-url fill, score pending |
 | 2026-07-06 | [`2026-07-06-s102.md`](../experiments/2026-07-06-s102.md) | Public | Deadline-aware short-url fill with wider guard, score pending |
 | 2026-07-06 | [`2026-07-06-s103.md`](../experiments/2026-07-06-s103.md) | Public | Deadline-aware short-url fill with tighter guard, score pending |
+| 2026-07-06 | [`2026-07-06-s104.md`](../experiments/2026-07-06-s104.md) | Public | Deadline-aware bare short-url fill, score pending |
