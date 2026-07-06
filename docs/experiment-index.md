@@ -105,3 +105,4 @@
 | 2026-07-05 | [`2026-07-05-s100.md`](../experiments/2026-07-05-s100.md) | Public | Marker frontier control repeat, score 43.200 |
 | 2026-07-06 | [`2026-07-06-s101.md`](../experiments/2026-07-06-s101.md) | Public | Deadline-aware short-url fill, score pending |
 | 2026-07-06 | [`2026-07-06-s102.md`](../experiments/2026-07-06-s102.md) | Public | Deadline-aware short-url fill with wider guard, score pending |
+| 2026-07-06 | [`2026-07-06-s103.md`](../experiments/2026-07-06-s103.md) | Public | Deadline-aware short-url fill with tighter guard, score pending |

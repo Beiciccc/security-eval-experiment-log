@@ -101,3 +101,4 @@ date,submission,status,public_score,notes
 2026-07-05,s100,complete,43.200,marker frontier control repeat completed
 2026-07-06,s101,pending,,deadline-aware short-url fill accepted; score pending
 2026-07-06,s102,pending,,deadline-aware short-url fill with wider guard accepted; score pending
+2026-07-06,s103,pending,,deadline-aware short-url fill with tighter guard accepted; score pending
