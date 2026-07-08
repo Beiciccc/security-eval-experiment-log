@@ -198,3 +198,4 @@
 
 - Recorded completed public scores for s101 through s105.
 - Added pending record for s106.
+- Added pending record for s107.

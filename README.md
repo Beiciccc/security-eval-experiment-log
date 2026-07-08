@@ -149,6 +149,7 @@ Returned without a public score due to evaluation errors:
 Accepted submissions pending public scores:
 
 - `s106`
+- `s107`
 
 ## Data
 
