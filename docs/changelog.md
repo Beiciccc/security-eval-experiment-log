@@ -197,3 +197,4 @@
 ## 2026-07-08
 
 - Recorded completed public scores for s101 through s105.
+- Added pending record for s106.
