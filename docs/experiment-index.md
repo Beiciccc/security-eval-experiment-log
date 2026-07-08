@@ -110,3 +110,4 @@
 | 2026-07-06 | [`2026-07-06-s105.md`](../experiments/2026-07-06-s105.md) | Public | Deadline-aware direct short-url fill, score 55.395 |
 | 2026-07-08 | [`2026-07-08-s106.md`](../experiments/2026-07-08-s106.md) | Public | Deadline-aware short-url control repeat, score pending |
 | 2026-07-08 | [`2026-07-08-s107.md`](../experiments/2026-07-08-s107.md) | Public | Deadline-aware short-url fill with tail, score pending |
+| 2026-07-08 | [`2026-07-08-s108.md`](../experiments/2026-07-08-s108.md) | Public | Deadline-aware wider-guard tail fill, score pending |
