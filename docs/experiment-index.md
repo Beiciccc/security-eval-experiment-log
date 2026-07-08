@@ -112,3 +112,4 @@
 | 2026-07-08 | [`2026-07-08-s107.md`](../experiments/2026-07-08-s107.md) | Public | Deadline-aware short-url fill with tail, score pending |
 | 2026-07-08 | [`2026-07-08-s108.md`](../experiments/2026-07-08-s108.md) | Public | Deadline-aware wider-guard tail fill, score pending |
 | 2026-07-08 | [`2026-07-08-s109.md`](../experiments/2026-07-08-s109.md) | Public | Deadline-aware wider-guard smaller-tail fill, score pending |
+| 2026-07-08 | [`2026-07-08-s110.md`](../experiments/2026-07-08-s110.md) | Public | Deadline-aware wider-guard minimal-tail fill, score pending |
