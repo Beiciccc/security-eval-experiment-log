@@ -99,8 +99,8 @@ date,submission,status,public_score,notes
 2026-07-05,s98,complete,,marker gap midpoint probe completed; public score not reported
 2026-07-05,s99,complete,,marker highest-below-gap probe completed; public score not reported
 2026-07-05,s100,complete,43.200,marker frontier control repeat completed
-2026-07-06,s101,pending,,deadline-aware short-url fill accepted; score pending
-2026-07-06,s102,pending,,deadline-aware short-url fill with wider guard accepted; score pending
-2026-07-06,s103,pending,,deadline-aware short-url fill with tighter guard accepted; score pending
-2026-07-06,s104,pending,,deadline-aware bare short-url fill accepted; score pending
-2026-07-06,s105,pending,,deadline-aware direct short-url fill accepted; score pending
+2026-07-06,s101,complete,57.700,deadline-aware short-url fill completed
+2026-07-06,s102,complete,56.845,deadline-aware short-url fill with wider guard completed
+2026-07-06,s103,complete,56.440,deadline-aware short-url fill with tighter guard completed
+2026-07-06,s104,complete,49.095,deadline-aware bare short-url fill completed
+2026-07-06,s105,complete,55.395,deadline-aware direct short-url fill completed

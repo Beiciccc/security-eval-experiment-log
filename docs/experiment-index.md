@@ -103,8 +103,8 @@
 | 2026-07-05 | [`2026-07-05-s98.md`](../experiments/2026-07-05-s98.md) | Public | Marker gap midpoint probe, public score not reported |
 | 2026-07-05 | [`2026-07-05-s99.md`](../experiments/2026-07-05-s99.md) | Public | Marker highest-below-gap probe, public score not reported |
 | 2026-07-05 | [`2026-07-05-s100.md`](../experiments/2026-07-05-s100.md) | Public | Marker frontier control repeat, score 43.200 |
-| 2026-07-06 | [`2026-07-06-s101.md`](../experiments/2026-07-06-s101.md) | Public | Deadline-aware short-url fill, score pending |
-| 2026-07-06 | [`2026-07-06-s102.md`](../experiments/2026-07-06-s102.md) | Public | Deadline-aware short-url fill with wider guard, score pending |
-| 2026-07-06 | [`2026-07-06-s103.md`](../experiments/2026-07-06-s103.md) | Public | Deadline-aware short-url fill with tighter guard, score pending |
-| 2026-07-06 | [`2026-07-06-s104.md`](../experiments/2026-07-06-s104.md) | Public | Deadline-aware bare short-url fill, score pending |
-| 2026-07-06 | [`2026-07-06-s105.md`](../experiments/2026-07-06-s105.md) | Public | Deadline-aware direct short-url fill, score pending |
+| 2026-07-06 | [`2026-07-06-s101.md`](../experiments/2026-07-06-s101.md) | Public | Deadline-aware short-url fill, score 57.700 |
+| 2026-07-06 | [`2026-07-06-s102.md`](../experiments/2026-07-06-s102.md) | Public | Deadline-aware short-url fill with wider guard, score 56.845 |
+| 2026-07-06 | [`2026-07-06-s103.md`](../experiments/2026-07-06-s103.md) | Public | Deadline-aware short-url fill with tighter guard, score 56.440 |
+| 2026-07-06 | [`2026-07-06-s104.md`](../experiments/2026-07-06-s104.md) | Public | Deadline-aware bare short-url fill, score 49.095 |
+| 2026-07-06 | [`2026-07-06-s105.md`](../experiments/2026-07-06-s105.md) | Public | Deadline-aware direct short-url fill, score 55.395 |
