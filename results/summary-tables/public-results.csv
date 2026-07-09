@@ -109,3 +109,4 @@ date,submission,status,public_score,notes
 2026-07-08,s108,complete,,deadline-aware wider-guard tail fill completed; public score not reported
 2026-07-08,s109,complete,,deadline-aware wider-guard smaller-tail fill completed; public score not reported
 2026-07-08,s110,complete,53.625,deadline-aware wider-guard minimal-tail fill completed
+2026-07-09,s111,pending,,deadline-aware short-url control retest accepted; public score pending

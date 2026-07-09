@@ -207,3 +207,4 @@
 
 - Recorded completed public scores for s106 and s110.
 - Recorded completed statuses for s107 through s109.
+- Added pending record for s111.

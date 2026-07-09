@@ -153,7 +153,7 @@ Returned without a public score due to evaluation errors:
 
 Accepted submissions pending public scores:
 
-- None currently recorded.
+- `s111`
 
 ## Data
 
