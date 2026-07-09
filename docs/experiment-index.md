@@ -108,8 +108,8 @@
 | 2026-07-06 | [`2026-07-06-s103.md`](../experiments/2026-07-06-s103.md) | Public | Deadline-aware short-url fill with tighter guard, score 56.440 |
 | 2026-07-06 | [`2026-07-06-s104.md`](../experiments/2026-07-06-s104.md) | Public | Deadline-aware bare short-url fill, score 49.095 |
 | 2026-07-06 | [`2026-07-06-s105.md`](../experiments/2026-07-06-s105.md) | Public | Deadline-aware direct short-url fill, score 55.395 |
-| 2026-07-08 | [`2026-07-08-s106.md`](../experiments/2026-07-08-s106.md) | Public | Deadline-aware short-url control repeat, score pending |
-| 2026-07-08 | [`2026-07-08-s107.md`](../experiments/2026-07-08-s107.md) | Public | Deadline-aware short-url fill with tail, score pending |
-| 2026-07-08 | [`2026-07-08-s108.md`](../experiments/2026-07-08-s108.md) | Public | Deadline-aware wider-guard tail fill, score pending |
-| 2026-07-08 | [`2026-07-08-s109.md`](../experiments/2026-07-08-s109.md) | Public | Deadline-aware wider-guard smaller-tail fill, score pending |
-| 2026-07-08 | [`2026-07-08-s110.md`](../experiments/2026-07-08-s110.md) | Public | Deadline-aware wider-guard minimal-tail fill, score pending |
+| 2026-07-08 | [`2026-07-08-s106.md`](../experiments/2026-07-08-s106.md) | Public | Deadline-aware short-url control repeat, score 52.595 |
+| 2026-07-08 | [`2026-07-08-s107.md`](../experiments/2026-07-08-s107.md) | Public | Deadline-aware short-url fill with tail, public score not reported |
+| 2026-07-08 | [`2026-07-08-s108.md`](../experiments/2026-07-08-s108.md) | Public | Deadline-aware wider-guard tail fill, public score not reported |
+| 2026-07-08 | [`2026-07-08-s109.md`](../experiments/2026-07-08-s109.md) | Public | Deadline-aware wider-guard smaller-tail fill, public score not reported |
+| 2026-07-08 | [`2026-07-08-s110.md`](../experiments/2026-07-08-s110.md) | Public | Deadline-aware wider-guard minimal-tail fill, score 53.625 |

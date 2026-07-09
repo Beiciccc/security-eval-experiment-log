@@ -202,3 +202,8 @@
 - Added pending record for s108.
 - Added pending record for s109.
 - Added pending record for s110.
+
+## 2026-07-09
+
+- Recorded completed public scores for s106 and s110.
+- Recorded completed statuses for s107 through s109.
