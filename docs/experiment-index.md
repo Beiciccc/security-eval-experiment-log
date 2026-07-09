@@ -116,3 +116,4 @@
 | 2026-07-09 | [`2026-07-09-s111.md`](../experiments/2026-07-09-s111.md) | Public | Deadline-aware short-url control retest, pending public score |
 | 2026-07-09 | [`2026-07-09-s112.md`](../experiments/2026-07-09-s112.md) | Public | Deadline-aware wider-guard no-tail retest, pending public score |
 | 2026-07-09 | [`2026-07-09-s113.md`](../experiments/2026-07-09-s113.md) | Public | Short-host validation fill with conservative guard, pending public score |
+| 2026-07-09 | [`2026-07-09-s114.md`](../experiments/2026-07-09-s114.md) | Public | Short-host validation fill with tighter guard, pending public score |
