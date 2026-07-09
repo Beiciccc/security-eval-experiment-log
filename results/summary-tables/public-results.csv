@@ -113,3 +113,4 @@ date,submission,status,public_score,notes
 2026-07-09,s112,pending,,deadline-aware wider-guard no-tail retest accepted; public score pending
 2026-07-09,s113,pending,,short-host validation fill with conservative guard accepted; public score pending
 2026-07-09,s114,pending,,short-host validation fill with tighter guard accepted; public score pending
+2026-07-09,s115,pending,,two-post short-host validation fill accepted; public score pending
