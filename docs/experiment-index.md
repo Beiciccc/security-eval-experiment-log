@@ -113,8 +113,8 @@
 | 2026-07-08 | [`2026-07-08-s108.md`](../experiments/2026-07-08-s108.md) | Public | Deadline-aware wider-guard tail fill, public score not reported |
 | 2026-07-08 | [`2026-07-08-s109.md`](../experiments/2026-07-08-s109.md) | Public | Deadline-aware wider-guard smaller-tail fill, public score not reported |
 | 2026-07-08 | [`2026-07-08-s110.md`](../experiments/2026-07-08-s110.md) | Public | Deadline-aware wider-guard minimal-tail fill, score 53.625 |
-| 2026-07-09 | [`2026-07-09-s111.md`](../experiments/2026-07-09-s111.md) | Public | Deadline-aware short-url control retest, pending public score |
-| 2026-07-09 | [`2026-07-09-s112.md`](../experiments/2026-07-09-s112.md) | Public | Deadline-aware wider-guard no-tail retest, pending public score |
-| 2026-07-09 | [`2026-07-09-s113.md`](../experiments/2026-07-09-s113.md) | Public | Short-host validation fill with conservative guard, pending public score |
-| 2026-07-09 | [`2026-07-09-s114.md`](../experiments/2026-07-09-s114.md) | Public | Short-host validation fill with tighter guard, pending public score |
-| 2026-07-09 | [`2026-07-09-s115.md`](../experiments/2026-07-09-s115.md) | Public | Two-post short-host validation fill, pending public score |
+| 2026-07-09 | [`2026-07-09-s111.md`](../experiments/2026-07-09-s111.md) | Public | Deadline-aware short-url control retest, score 55.065 |
+| 2026-07-09 | [`2026-07-09-s112.md`](../experiments/2026-07-09-s112.md) | Public | Deadline-aware wider-guard no-tail retest, score 54.615 |
+| 2026-07-09 | [`2026-07-09-s113.md`](../experiments/2026-07-09-s113.md) | Public | Short-host validation fill with conservative guard, score 59.810 |
+| 2026-07-09 | [`2026-07-09-s114.md`](../experiments/2026-07-09-s114.md) | Public | Short-host validation fill with tighter guard, score 60.745 |
+| 2026-07-09 | [`2026-07-09-s115.md`](../experiments/2026-07-09-s115.md) | Public | Two-post short-host validation fill, score 4.675 |

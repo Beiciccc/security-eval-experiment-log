@@ -109,8 +109,8 @@ date,submission,status,public_score,notes
 2026-07-08,s108,complete,,deadline-aware wider-guard tail fill completed; public score not reported
 2026-07-08,s109,complete,,deadline-aware wider-guard smaller-tail fill completed; public score not reported
 2026-07-08,s110,complete,53.625,deadline-aware wider-guard minimal-tail fill completed
-2026-07-09,s111,pending,,deadline-aware short-url control retest accepted; public score pending
-2026-07-09,s112,pending,,deadline-aware wider-guard no-tail retest accepted; public score pending
-2026-07-09,s113,pending,,short-host validation fill with conservative guard accepted; public score pending
-2026-07-09,s114,pending,,short-host validation fill with tighter guard accepted; public score pending
-2026-07-09,s115,pending,,two-post short-host validation fill accepted; public score pending
+2026-07-09,s111,complete,55.065,deadline-aware short-url control retest completed
+2026-07-09,s112,complete,54.615,deadline-aware wider-guard no-tail retest completed
+2026-07-09,s113,complete,59.810,short-host validation fill with conservative guard completed
+2026-07-09,s114,complete,60.745,short-host validation fill with tighter guard completed
+2026-07-09,s115,complete,4.675,two-post short-host validation fill completed
