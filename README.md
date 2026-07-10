@@ -160,6 +160,7 @@ Accepted submissions pending public scores:
 
 - `s116`
 - `s117`
+- `s118`
 
 ## Data
 

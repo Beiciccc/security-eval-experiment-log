@@ -120,3 +120,4 @@
 | 2026-07-09 | [`2026-07-09-s115.md`](../experiments/2026-07-09-s115.md) | Public | Two-post short-host validation fill, score 4.675 |
 | 2026-07-10 | [`2026-07-10-s116.md`](../experiments/2026-07-10-s116.md) | Public | Short-host validation fill aligned to a public margin-47 baseline, pending public score |
 | 2026-07-10 | [`2026-07-10-s117.md`](../experiments/2026-07-10-s117.md) | Public | Short-host validation fill with a margin-46 control, pending public score |
+| 2026-07-10 | [`2026-07-10-s118.md`](../experiments/2026-07-10-s118.md) | Public | Short-host validation fill with a modestly wider budget fraction, pending public score |
