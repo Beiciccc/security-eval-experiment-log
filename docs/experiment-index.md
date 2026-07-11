@@ -118,8 +118,8 @@
 | 2026-07-09 | [`2026-07-09-s113.md`](../experiments/2026-07-09-s113.md) | Public | Short-host validation fill with conservative guard, score 59.810 |
 | 2026-07-09 | [`2026-07-09-s114.md`](../experiments/2026-07-09-s114.md) | Public | Short-host validation fill with tighter guard, score 60.745 |
 | 2026-07-09 | [`2026-07-09-s115.md`](../experiments/2026-07-09-s115.md) | Public | Two-post short-host validation fill, score 4.675 |
-| 2026-07-10 | [`2026-07-10-s116.md`](../experiments/2026-07-10-s116.md) | Public | Short-host validation fill aligned to a public margin-47 baseline, pending public score |
-| 2026-07-10 | [`2026-07-10-s117.md`](../experiments/2026-07-10-s117.md) | Public | Short-host validation fill with a margin-46 control, pending public score |
-| 2026-07-10 | [`2026-07-10-s118.md`](../experiments/2026-07-10-s118.md) | Public | Short-host validation fill with a modestly wider budget fraction, pending public score |
-| 2026-07-10 | [`2026-07-10-s119.md`](../experiments/2026-07-10-s119.md) | Public | Adaptive single-request validation fill aligned to a public baseline, pending public score |
-| 2026-07-10 | [`2026-07-10-s120.md`](../experiments/2026-07-10-s120.md) | Public | Adaptive single-request validation fill with a tighter margin, pending public score |
+| 2026-07-10 | [`2026-07-10-s116.md`](../experiments/2026-07-10-s116.md) | Public | Short-host validation fill aligned to a public margin-47 baseline, score 57.980 |
+| 2026-07-10 | [`2026-07-10-s117.md`](../experiments/2026-07-10-s117.md) | Public | Short-host validation fill with a margin-46 control, score 60.590 |
+| 2026-07-10 | [`2026-07-10-s118.md`](../experiments/2026-07-10-s118.md) | Public | Short-host validation fill with a modestly wider budget fraction, score 59.645 |
+| 2026-07-10 | [`2026-07-10-s119.md`](../experiments/2026-07-10-s119.md) | Public | Adaptive single-request validation fill aligned to a public baseline, score 48.690 |
+| 2026-07-10 | [`2026-07-10-s120.md`](../experiments/2026-07-10-s120.md) | Public | Adaptive single-request validation fill with a tighter margin, score 50.670 |

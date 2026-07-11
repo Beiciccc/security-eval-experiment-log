@@ -97,6 +97,11 @@ Latest completed public scores:
 - `s113`: public score `59.810`
 - `s114`: public score `60.745`
 - `s115`: public score `4.675`
+- `s116`: public score `57.980`
+- `s117`: public score `60.590`
+- `s118`: public score `59.645`
+- `s119`: public score `48.690`
+- `s120`: public score `50.670`
 
 Completed without a reported public score:
 
@@ -155,14 +160,6 @@ Returned without a public score due to evaluation errors:
 - `s53`
 - `s54`
 - `s55`
-
-Accepted submissions pending public scores:
-
-- `s116`
-- `s117`
-- `s118`
-- `s119`
-- `s120`
 
 ## Data
 

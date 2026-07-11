@@ -114,8 +114,8 @@ date,submission,status,public_score,notes
 2026-07-09,s113,complete,59.810,short-host validation fill with conservative guard completed
 2026-07-09,s114,complete,60.745,short-host validation fill with tighter guard completed
 2026-07-09,s115,complete,4.675,two-post short-host validation fill completed
-2026-07-10,s116,pending,,short-host validation fill aligned to public margin-47 baseline accepted; public score pending
-2026-07-10,s117,pending,,short-host validation fill with margin-46 control accepted; public score pending
-2026-07-10,s118,pending,,short-host validation fill with modestly wider budget fraction accepted; public score pending
-2026-07-10,s119,pending,,adaptive single-request validation fill aligned to public baseline accepted; public score pending
-2026-07-10,s120,pending,,adaptive single-request validation fill with tighter margin accepted; public score pending
+2026-07-10,s116,complete,57.980,short-host validation fill aligned to public margin-47 baseline completed
+2026-07-10,s117,complete,60.590,short-host validation fill with margin-46 control completed
+2026-07-10,s118,complete,59.645,short-host validation fill with modestly wider budget fraction completed
+2026-07-10,s119,complete,48.690,adaptive single-request validation fill aligned to public baseline completed
+2026-07-10,s120,complete,50.670,adaptive single-request validation fill with tighter margin completed

@@ -221,3 +221,7 @@
 - Added pending record for s118.
 - Added pending record for s119.
 - Added pending record for s120.
+
+## 2026-07-11
+
+- Recorded completed public scores for s116 through s120.
