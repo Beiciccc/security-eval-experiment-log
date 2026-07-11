@@ -127,3 +127,4 @@
 | 2026-07-11 | [`2026-07-11-s122.md`](../experiments/2026-07-11-s122.md) | Public | Short-host validation fill with a margin-45 control, pending public score |
 | 2026-07-11 | [`2026-07-11-s123.md`](../experiments/2026-07-11-s123.md) | Public | Short-host validation fill with a wider budget fraction, pending public score |
 | 2026-07-11 | [`2026-07-11-s124.md`](../experiments/2026-07-11-s124.md) | Public | Public margin-49 short-host validation-fill baseline, pending public score |
+| 2026-07-11 | [`2026-07-11-s125.md`](../experiments/2026-07-11-s125.md) | Public | Public portfolio validation-fill baseline, pending public score |
