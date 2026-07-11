@@ -225,3 +225,4 @@
 ## 2026-07-11
 
 - Recorded completed public scores for s116 through s120.
+- Added pending record for s121.

@@ -119,3 +119,4 @@ date,submission,status,public_score,notes
 2026-07-10,s118,complete,59.645,short-host validation fill with modestly wider budget fraction completed
 2026-07-10,s119,complete,48.690,adaptive single-request validation fill aligned to public baseline completed
 2026-07-10,s120,complete,50.670,adaptive single-request validation fill with tighter margin completed
+2026-07-11,s121,pending,,exact margin-46 short-host validation-fill repeat accepted; public score pending
