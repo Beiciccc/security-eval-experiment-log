@@ -125,3 +125,4 @@
 | 2026-07-10 | [`2026-07-10-s120.md`](../experiments/2026-07-10-s120.md) | Public | Adaptive single-request validation fill with a tighter margin, score 50.670 |
 | 2026-07-11 | [`2026-07-11-s121.md`](../experiments/2026-07-11-s121.md) | Public | Exact repeat of the margin-46 short-host validation-fill result, pending public score |
 | 2026-07-11 | [`2026-07-11-s122.md`](../experiments/2026-07-11-s122.md) | Public | Short-host validation fill with a margin-45 control, pending public score |
+| 2026-07-11 | [`2026-07-11-s123.md`](../experiments/2026-07-11-s123.md) | Public | Short-host validation fill with a wider budget fraction, pending public score |
