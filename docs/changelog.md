@@ -226,3 +226,4 @@
 
 - Recorded completed public scores for s116 through s120.
 - Added pending record for s121.
+- Added pending record for s122.
