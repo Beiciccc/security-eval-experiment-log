@@ -125,3 +125,4 @@ date,submission,status,public_score,notes
 2026-07-11,s124,complete,59.890,public margin-49 short-host validation-fill baseline completed
 2026-07-11,s125,complete,20.925,public portfolio validation-fill baseline completed
 2026-07-12,s126,pending,,repeat of the leading short-host validation-fill configuration accepted; public score pending
+2026-07-12,s127,pending,,short-host validation fill with a one-second tighter margin accepted; public score pending
