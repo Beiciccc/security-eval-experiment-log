@@ -127,3 +127,4 @@ date,submission,status,public_score,notes
 2026-07-12,s126,pending,,repeat of the leading short-host validation-fill configuration accepted; public score pending
 2026-07-12,s127,pending,,short-host validation fill with a one-second tighter margin accepted; public score pending
 2026-07-12,s128,pending,,short-host validation fill with a modestly wider budget fraction accepted; public score pending
+2026-07-12,s129,pending,,short-host validation fill with a tighter safety margin accepted; public score pending
