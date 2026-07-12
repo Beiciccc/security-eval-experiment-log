@@ -128,3 +128,4 @@
 | 2026-07-11 | [`2026-07-11-s123.md`](../experiments/2026-07-11-s123.md) | Public | Short-host validation fill with a wider budget fraction, score 62.720 |
 | 2026-07-11 | [`2026-07-11-s124.md`](../experiments/2026-07-11-s124.md) | Public | Public margin-49 short-host validation-fill baseline, score 59.890 |
 | 2026-07-11 | [`2026-07-11-s125.md`](../experiments/2026-07-11-s125.md) | Public | Public portfolio validation-fill baseline, score 20.925 |
+| 2026-07-12 | [`2026-07-12-s126.md`](../experiments/2026-07-12-s126.md) | Public | Repeat of the leading short-host validation-fill configuration, pending public score |
