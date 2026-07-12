@@ -132,3 +132,4 @@
 | 2026-07-12 | [`2026-07-12-s127.md`](../experiments/2026-07-12-s127.md) | Public | Short-host validation fill with a one-second tighter margin, pending public score |
 | 2026-07-12 | [`2026-07-12-s128.md`](../experiments/2026-07-12-s128.md) | Public | Short-host validation fill with a modestly wider budget fraction, pending public score |
 | 2026-07-12 | [`2026-07-12-s129.md`](../experiments/2026-07-12-s129.md) | Public | Short-host validation fill with a tighter safety margin, pending public score |
+| 2026-07-12 | [`2026-07-12-s130.md`](../experiments/2026-07-12-s130.md) | Public | Short-host validation fill with a wider budget fraction, pending public score |
