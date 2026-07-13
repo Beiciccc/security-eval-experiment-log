@@ -239,3 +239,7 @@
 - Added pending record for s128.
 - Added pending record for s129.
 - Added pending record for s130.
+
+## 2026-07-13
+
+- Recorded the completed public scores for s126 through s130.
