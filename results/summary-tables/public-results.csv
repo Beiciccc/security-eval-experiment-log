@@ -130,3 +130,4 @@ date,submission,status,public_score,notes
 2026-07-12,s129,complete,61.065,short-host validation fill with a tighter safety margin completed
 2026-07-12,s130,complete,64.170,short-host validation fill with a wider budget fraction completed
 2026-07-13,s131,pending,,repeat of the leading short-host validation-fill configuration accepted; public score pending
+2026-07-13,s132,pending,,short-host validation fill with a modestly wider budget fraction accepted; public score pending

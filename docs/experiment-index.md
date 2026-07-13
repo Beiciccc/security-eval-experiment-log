@@ -134,3 +134,4 @@
 | 2026-07-12 | [`2026-07-12-s129.md`](../experiments/2026-07-12-s129.md) | Public | Short-host validation fill with a tighter safety margin, score 61.065 |
 | 2026-07-12 | [`2026-07-12-s130.md`](../experiments/2026-07-12-s130.md) | Public | Short-host validation fill with a wider budget fraction, score 64.170 |
 | 2026-07-13 | [`2026-07-13-s131.md`](../experiments/2026-07-13-s131.md) | Public | Repeat of the leading short-host validation-fill configuration, pending public score |
+| 2026-07-13 | [`2026-07-13-s132.md`](../experiments/2026-07-13-s132.md) | Public | Short-host validation fill with a modestly wider budget fraction, pending public score |
