@@ -250,3 +250,4 @@
 
 - Recorded the completed public scores for s131 and s132.
 - Added pending record for s133.
+- Added pending record for s134.
