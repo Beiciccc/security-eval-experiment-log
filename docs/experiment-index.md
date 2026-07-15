@@ -144,3 +144,4 @@
 | 2026-07-15 | [`2026-07-15-s139.md`](../experiments/2026-07-15-s139.md) | Public | Leading short-host validation-fill configuration with retained validated warm-up, pending public score |
 | 2026-07-15 | [`2026-07-15-s140.md`](../experiments/2026-07-15-s140.md) | Public | Leading short-host validation-fill configuration with latency-routed message format, pending public score |
 | 2026-07-15 | [`2026-07-15-s141.md`](../experiments/2026-07-15-s141.md) | Public | Leading short-host validation-fill configuration with routing and retained warm-up, pending public score |
+| 2026-07-15 | [`2026-07-15-s142.md`](../experiments/2026-07-15-s142.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
