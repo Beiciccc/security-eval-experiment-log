@@ -139,3 +139,4 @@ date,submission,status,public_score,notes
 2026-07-15,s138,pending,,fifth repeat of the leading short-host validation-fill configuration accepted; public score pending
 2026-07-15,s139,pending,,leading short-host validation-fill configuration with retained validated warm-up accepted; public score pending
 2026-07-15,s140,pending,,leading short-host validation-fill configuration with latency-routed message format accepted; public score pending
+2026-07-15,s141,pending,,leading short-host validation-fill configuration with routing and retained warm-up accepted; public score pending

@@ -143,3 +143,4 @@
 | 2026-07-15 | [`2026-07-15-s138.md`](../experiments/2026-07-15-s138.md) | Public | Fifth repeat of the leading short-host validation-fill configuration, pending public score |
 | 2026-07-15 | [`2026-07-15-s139.md`](../experiments/2026-07-15-s139.md) | Public | Leading short-host validation-fill configuration with retained validated warm-up, pending public score |
 | 2026-07-15 | [`2026-07-15-s140.md`](../experiments/2026-07-15-s140.md) | Public | Leading short-host validation-fill configuration with latency-routed message format, pending public score |
+| 2026-07-15 | [`2026-07-15-s141.md`](../experiments/2026-07-15-s141.md) | Public | Leading short-host validation-fill configuration with routing and retained warm-up, pending public score |
