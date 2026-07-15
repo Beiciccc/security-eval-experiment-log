@@ -140,3 +140,4 @@
 | 2026-07-14 | [`2026-07-14-s135.md`](../experiments/2026-07-14-s135.md) | Public | Intermediate short-host validation-fill configuration, pending public score |
 | 2026-07-14 | [`2026-07-14-s136.md`](../experiments/2026-07-14-s136.md) | Public | Near-boundary short-host validation-fill configuration, pending public score |
 | 2026-07-14 | [`2026-07-14-s137.md`](../experiments/2026-07-14-s137.md) | Public | Fourth repeat of the leading short-host validation-fill configuration, pending public score |
+| 2026-07-15 | [`2026-07-15-s138.md`](../experiments/2026-07-15-s138.md) | Public | Fifth repeat of the leading short-host validation-fill configuration, pending public score |
