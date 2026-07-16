@@ -168,11 +168,7 @@ Accepted submissions pending public scores:
 - `s135`
 - `s136`
 - `s137`
-- `s138`
 - `s139`
-- `s140`
-- `s141`
-- `s142`
 
 ## Data
 

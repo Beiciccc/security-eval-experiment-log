@@ -140,8 +140,8 @@
 | 2026-07-14 | [`2026-07-14-s135.md`](../experiments/2026-07-14-s135.md) | Public | Intermediate short-host validation-fill configuration, pending public score |
 | 2026-07-14 | [`2026-07-14-s136.md`](../experiments/2026-07-14-s136.md) | Public | Near-boundary short-host validation-fill configuration, pending public score |
 | 2026-07-14 | [`2026-07-14-s137.md`](../experiments/2026-07-14-s137.md) | Public | Fourth repeat of the leading short-host validation-fill configuration, pending public score |
-| 2026-07-15 | [`2026-07-15-s138.md`](../experiments/2026-07-15-s138.md) | Public | Fifth repeat of the leading short-host validation-fill configuration, pending public score |
+| 2026-07-15 | [`2026-07-15-s138.md`](../experiments/2026-07-15-s138.md) | Public | Fifth repeat of the leading short-host validation-fill configuration, score 57.105 |
 | 2026-07-15 | [`2026-07-15-s139.md`](../experiments/2026-07-15-s139.md) | Public | Leading short-host validation-fill configuration with retained validated warm-up, pending public score |
-| 2026-07-15 | [`2026-07-15-s140.md`](../experiments/2026-07-15-s140.md) | Public | Leading short-host validation-fill configuration with latency-routed message format, pending public score |
-| 2026-07-15 | [`2026-07-15-s141.md`](../experiments/2026-07-15-s141.md) | Public | Leading short-host validation-fill configuration with routing and retained warm-up, pending public score |
-| 2026-07-15 | [`2026-07-15-s142.md`](../experiments/2026-07-15-s142.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
+| 2026-07-15 | [`2026-07-15-s140.md`](../experiments/2026-07-15-s140.md) | Public | Leading short-host validation-fill configuration with latency-routed message format, score 56.430 |
+| 2026-07-15 | [`2026-07-15-s141.md`](../experiments/2026-07-15-s141.md) | Public | Leading short-host validation-fill configuration with routing and retained warm-up, score 58.275 |
+| 2026-07-15 | [`2026-07-15-s142.md`](../experiments/2026-07-15-s142.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, score 61.155 |
