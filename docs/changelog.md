@@ -277,3 +277,4 @@
 - Recorded the completed public scores for s143 through s147.
 - Added pending record for s148.
 - Added pending record for s149.
+- Added pending record for s150.
