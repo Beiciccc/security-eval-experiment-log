@@ -173,6 +173,7 @@ Accepted submissions pending public scores:
 - `s149`
 - `s150`
 - `s151`
+- `s152`
 
 ## Data
 
