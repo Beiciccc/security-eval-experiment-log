@@ -150,3 +150,4 @@
 | 2026-07-16 | [`2026-07-16-s145.md`](../experiments/2026-07-16-s145.md) | Public | m46 short-host validation-fill configuration at a 0.9625 fraction, score 60.255 |
 | 2026-07-16 | [`2026-07-16-s146.md`](../experiments/2026-07-16-s146.md) | Public | Second repeat of the margin-44 short-host validation-fill control at a 0.96 fraction, score 58.275 |
 | 2026-07-16 | [`2026-07-16-s147.md`](../experiments/2026-07-16-s147.md) | Public | Isolated public single-message live-selection implementation, score 59.670 |
+| 2026-07-17 | [`2026-07-17-s148.md`](../experiments/2026-07-17-s148.md) | Public | Fifth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
