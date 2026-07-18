@@ -157,3 +157,4 @@
 | 2026-07-17 | [`2026-07-17-s152.md`](../experiments/2026-07-17-s152.md) | Public | Isolated public single-message replay-safe selector, pending public score |
 | 2026-07-18 | [`2026-07-18-s153.md`](../experiments/2026-07-18-s153.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, pending public score |
 | 2026-07-18 | [`2026-07-18-s154.md`](../experiments/2026-07-18-s154.md) | Public | Seventh repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
+| 2026-07-18 | [`2026-07-18-s155.md`](../experiments/2026-07-18-s155.md) | Public | Fourth repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, pending public score |
