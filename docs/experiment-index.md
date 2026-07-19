@@ -162,3 +162,4 @@
 | 2026-07-18 | [`2026-07-18-s157.md`](../experiments/2026-07-18-s157.md) | Public | Fourth repeat of the margin-45 short-host validation-fill control at a 0.96 fraction, no listed public score |
 | 2026-07-19 | [`2026-07-19-s158.md`](../experiments/2026-07-19-s158.md) | Public | First repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-19 | [`2026-07-19-s159.md`](../experiments/2026-07-19-s159.md) | Public | Second repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-19 | [`2026-07-19-s160.md`](../experiments/2026-07-19-s160.md) | Public | Third repeat of the high-scoring public single-message replay-safe selector, pending public score |
