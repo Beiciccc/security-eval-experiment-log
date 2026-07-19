@@ -161,7 +161,7 @@ Returned without a public score due to evaluation errors:
 - `s54`
 - `s55`
 
-Accepted submissions pending public scores:
+Completed without a listed public score:
 
 - `s133`
 - `s134`
@@ -171,14 +171,11 @@ Accepted submissions pending public scores:
 - `s139`
 - `s148`
 - `s149`
-- `s150`
-- `s151`
-- `s152`
-- `s153`
-- `s154`
-- `s155`
-- `s156`
 - `s157`
+
+Accepted submissions pending public scores:
+
+None.
 
 ## Data
 

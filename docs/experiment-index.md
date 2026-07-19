@@ -150,13 +150,13 @@
 | 2026-07-16 | [`2026-07-16-s145.md`](../experiments/2026-07-16-s145.md) | Public | m46 short-host validation-fill configuration at a 0.9625 fraction, score 60.255 |
 | 2026-07-16 | [`2026-07-16-s146.md`](../experiments/2026-07-16-s146.md) | Public | Second repeat of the margin-44 short-host validation-fill control at a 0.96 fraction, score 58.275 |
 | 2026-07-16 | [`2026-07-16-s147.md`](../experiments/2026-07-16-s147.md) | Public | Isolated public single-message live-selection implementation, score 59.670 |
-| 2026-07-17 | [`2026-07-17-s148.md`](../experiments/2026-07-17-s148.md) | Public | Fifth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
-| 2026-07-17 | [`2026-07-17-s149.md`](../experiments/2026-07-17-s149.md) | Public | Second repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, pending public score |
-| 2026-07-17 | [`2026-07-17-s150.md`](../experiments/2026-07-17-s150.md) | Public | Sixth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
-| 2026-07-17 | [`2026-07-17-s151.md`](../experiments/2026-07-17-s151.md) | Public | Third repeat of the margin-45 short-host validation-fill control at a 0.96 fraction, pending public score |
-| 2026-07-17 | [`2026-07-17-s152.md`](../experiments/2026-07-17-s152.md) | Public | Isolated public single-message replay-safe selector, pending public score |
-| 2026-07-18 | [`2026-07-18-s153.md`](../experiments/2026-07-18-s153.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, pending public score |
-| 2026-07-18 | [`2026-07-18-s154.md`](../experiments/2026-07-18-s154.md) | Public | Seventh repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
-| 2026-07-18 | [`2026-07-18-s155.md`](../experiments/2026-07-18-s155.md) | Public | Fourth repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, pending public score |
-| 2026-07-18 | [`2026-07-18-s156.md`](../experiments/2026-07-18-s156.md) | Public | Eighth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, pending public score |
-| 2026-07-18 | [`2026-07-18-s157.md`](../experiments/2026-07-18-s157.md) | Public | Fourth repeat of the margin-45 short-host validation-fill control at a 0.96 fraction, pending public score |
+| 2026-07-17 | [`2026-07-17-s148.md`](../experiments/2026-07-17-s148.md) | Public | Fifth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, no listed public score |
+| 2026-07-17 | [`2026-07-17-s149.md`](../experiments/2026-07-17-s149.md) | Public | Second repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, no listed public score |
+| 2026-07-17 | [`2026-07-17-s150.md`](../experiments/2026-07-17-s150.md) | Public | Sixth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, score 60.265 |
+| 2026-07-17 | [`2026-07-17-s151.md`](../experiments/2026-07-17-s151.md) | Public | Third repeat of the margin-45 short-host validation-fill control at a 0.96 fraction, score 61.680 |
+| 2026-07-17 | [`2026-07-17-s152.md`](../experiments/2026-07-17-s152.md) | Public | Isolated public single-message replay-safe selector, score 82.080 |
+| 2026-07-18 | [`2026-07-18-s153.md`](../experiments/2026-07-18-s153.md) | Public | Third repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, score 59.340 |
+| 2026-07-18 | [`2026-07-18-s154.md`](../experiments/2026-07-18-s154.md) | Public | Seventh repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, score 61.815 |
+| 2026-07-18 | [`2026-07-18-s155.md`](../experiments/2026-07-18-s155.md) | Public | Fourth repeat of the m46 short-host validation-fill configuration at a 0.965 fraction, score 61.275 |
+| 2026-07-18 | [`2026-07-18-s156.md`](../experiments/2026-07-18-s156.md) | Public | Eighth repeat of the m46 short-host validation-fill configuration at a 0.96 fraction, score 61.050 |
+| 2026-07-18 | [`2026-07-18-s157.md`](../experiments/2026-07-18-s157.md) | Public | Fourth repeat of the margin-45 short-host validation-fill control at a 0.96 fraction, no listed public score |

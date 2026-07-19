@@ -146,13 +146,13 @@ date,submission,status,public_score,notes
 2026-07-16,s145,complete,60.255,m46 short-host validation-fill configuration at a 0.9625 fraction completed
 2026-07-16,s146,complete,58.275,second margin-44 short-host validation-fill control at a 0.96 fraction completed
 2026-07-16,s147,complete,59.670,isolated public single-message live-selection implementation completed
-2026-07-17,s148,pending,,fifth m46 short-host validation-fill repeat at a 0.96 fraction accepted; public score pending
-2026-07-17,s149,pending,,second m46 short-host validation-fill repeat at a 0.965 fraction accepted; public score pending
-2026-07-17,s150,pending,,sixth m46 short-host validation-fill repeat at a 0.96 fraction accepted; public score pending
-2026-07-17,s151,pending,,third margin-45 short-host validation-fill control at a 0.96 fraction accepted; public score pending
-2026-07-17,s152,pending,,isolated public single-message replay-safe selector accepted; public score pending
-2026-07-18,s153,pending,,third m46 short-host validation-fill repeat at a 0.965 fraction accepted; public score pending
-2026-07-18,s154,pending,,seventh m46 short-host validation-fill repeat at a 0.96 fraction accepted; public score pending
-2026-07-18,s155,pending,,fourth m46 short-host validation-fill repeat at a 0.965 fraction accepted; public score pending
-2026-07-18,s156,pending,,eighth m46 short-host validation-fill repeat at a 0.96 fraction accepted; public score pending
-2026-07-18,s157,pending,,fourth margin-45 short-host validation-fill control at a 0.96 fraction accepted; public score pending
+2026-07-17,s148,complete,,fifth m46 short-host validation-fill repeat at a 0.96 fraction completed without listed public score
+2026-07-17,s149,complete,,second m46 short-host validation-fill repeat at a 0.965 fraction completed without listed public score
+2026-07-17,s150,complete,60.265,sixth m46 short-host validation-fill repeat at a 0.96 fraction completed
+2026-07-17,s151,complete,61.680,third margin-45 short-host validation-fill control at a 0.96 fraction completed
+2026-07-17,s152,complete,82.080,isolated public single-message replay-safe selector completed
+2026-07-18,s153,complete,59.340,third m46 short-host validation-fill repeat at a 0.965 fraction completed
+2026-07-18,s154,complete,61.815,seventh m46 short-host validation-fill repeat at a 0.96 fraction completed
+2026-07-18,s155,complete,61.275,fourth m46 short-host validation-fill repeat at a 0.965 fraction completed
+2026-07-18,s156,complete,61.050,eighth m46 short-host validation-fill repeat at a 0.96 fraction completed
+2026-07-18,s157,complete,,fourth margin-45 short-host validation-fill control at a 0.96 fraction completed without listed public score
