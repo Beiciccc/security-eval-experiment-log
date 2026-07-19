@@ -163,3 +163,4 @@
 | 2026-07-19 | [`2026-07-19-s158.md`](../experiments/2026-07-19-s158.md) | Public | First repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-19 | [`2026-07-19-s159.md`](../experiments/2026-07-19-s159.md) | Public | Second repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-19 | [`2026-07-19-s160.md`](../experiments/2026-07-19-s160.md) | Public | Third repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-19 | [`2026-07-19-s161.md`](../experiments/2026-07-19-s161.md) | Public | Fourth repeat of the high-scoring public single-message replay-safe selector, pending public score |
