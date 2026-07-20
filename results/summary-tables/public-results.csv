@@ -156,8 +156,8 @@ date,submission,status,public_score,notes
 2026-07-18,s155,complete,61.275,fourth m46 short-host validation-fill repeat at a 0.965 fraction completed
 2026-07-18,s156,complete,61.050,eighth m46 short-host validation-fill repeat at a 0.96 fraction completed
 2026-07-18,s157,complete,,fourth margin-45 short-host validation-fill control at a 0.96 fraction completed without listed public score
-2026-07-19,s158,pending,,first repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
-2026-07-19,s159,pending,,second repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
-2026-07-19,s160,pending,,third repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
-2026-07-19,s161,pending,,fourth repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
-2026-07-19,s162,pending,,fifth repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
+2026-07-19,s158,complete,82.170,first repeat of the high-scoring public single-message replay-safe selector completed
+2026-07-19,s159,complete,81.900,second repeat of the high-scoring public single-message replay-safe selector completed
+2026-07-19,s160,complete,76.590,third repeat of the high-scoring public single-message replay-safe selector completed
+2026-07-19,s161,complete,,fourth repeat of the high-scoring public single-message replay-safe selector completed without listed public score
+2026-07-19,s162,complete,78.570,fifth repeat of the high-scoring public single-message replay-safe selector completed
