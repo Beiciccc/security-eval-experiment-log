@@ -310,3 +310,5 @@
 ## 2026-07-21
 
 - Recorded completed outcomes for s163 through s167.
+- Added pending record for s168.
+- Added pending record for s169.
