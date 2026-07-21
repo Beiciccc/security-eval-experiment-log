@@ -188,6 +188,8 @@ Accepted submissions pending public scores:
 
 - `s168`
 - `s169`
+- `s170`
+- `s171`
 
 ## Data
 

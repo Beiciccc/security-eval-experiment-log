@@ -172,3 +172,5 @@
 | 2026-07-20 | [`2026-07-20-s167.md`](../experiments/2026-07-20-s167.md) | Public | Public Shadowcat Firewall M42 source family, score 0.450 |
 | 2026-07-21 | [`2026-07-21-s168.md`](../experiments/2026-07-21-s168.md) | Public | Seventh repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-21 | [`2026-07-21-s169.md`](../experiments/2026-07-21-s169.md) | Public | Eighth repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-21 | [`2026-07-21-s170.md`](../experiments/2026-07-21-s170.md) | Public | Ninth repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-21 | [`2026-07-21-s171.md`](../experiments/2026-07-21-s171.md) | Public | Tenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
