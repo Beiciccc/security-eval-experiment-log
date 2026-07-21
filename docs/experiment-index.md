@@ -174,3 +174,4 @@
 | 2026-07-21 | [`2026-07-21-s169.md`](../experiments/2026-07-21-s169.md) | Public | Eighth repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-21 | [`2026-07-21-s170.md`](../experiments/2026-07-21-s170.md) | Public | Ninth repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-21 | [`2026-07-21-s171.md`](../experiments/2026-07-21-s171.md) | Public | Tenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-21 | [`2026-07-21-s172.md`](../experiments/2026-07-21-s172.md) | Public | Eleventh repeat of the high-scoring public single-message replay-safe selector, pending public score |
