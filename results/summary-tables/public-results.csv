@@ -161,8 +161,8 @@ date,submission,status,public_score,notes
 2026-07-19,s160,complete,76.590,third repeat of the high-scoring public single-message replay-safe selector completed
 2026-07-19,s161,complete,,fourth repeat of the high-scoring public single-message replay-safe selector completed without listed public score
 2026-07-19,s162,complete,78.570,fifth repeat of the high-scoring public single-message replay-safe selector completed
-2026-07-20,s163,pending,,sixth repeat of the high-scoring public single-message replay-safe selector accepted; public score pending
-2026-07-20,s164,pending,,public another-approach source family accepted; public score pending
-2026-07-20,s165,pending,,public budget-adjusted another-approach source family accepted; public score pending
-2026-07-20,s166,pending,,public margin-adjusted another-approach source family accepted; public score pending
-2026-07-20,s167,pending,,public Shadowcat Firewall M42 source family accepted; public score pending
+2026-07-20,s163,complete,78.705,sixth repeat of the high-scoring public single-message replay-safe selector completed
+2026-07-20,s164,complete,69.390,public another-approach source family completed
+2026-07-20,s165,complete,71.280,public budget-adjusted another-approach source family completed
+2026-07-20,s166,complete,72.530,public margin-adjusted another-approach source family completed
+2026-07-20,s167,complete,0.450,public Shadowcat Firewall M42 source family completed

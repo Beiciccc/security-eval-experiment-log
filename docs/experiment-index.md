@@ -165,8 +165,8 @@
 | 2026-07-19 | [`2026-07-19-s160.md`](../experiments/2026-07-19-s160.md) | Public | Third repeat of the high-scoring public single-message replay-safe selector, score 76.590 |
 | 2026-07-19 | [`2026-07-19-s161.md`](../experiments/2026-07-19-s161.md) | Public | Fourth repeat of the high-scoring public single-message replay-safe selector, no listed public score |
 | 2026-07-19 | [`2026-07-19-s162.md`](../experiments/2026-07-19-s162.md) | Public | Fifth repeat of the high-scoring public single-message replay-safe selector, score 78.570 |
-| 2026-07-20 | [`2026-07-20-s163.md`](../experiments/2026-07-20-s163.md) | Public | Sixth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-20 | [`2026-07-20-s164.md`](../experiments/2026-07-20-s164.md) | Public | Public another-approach source family, pending public score |
-| 2026-07-20 | [`2026-07-20-s165.md`](../experiments/2026-07-20-s165.md) | Public | Public budget-adjusted another-approach source family, pending public score |
-| 2026-07-20 | [`2026-07-20-s166.md`](../experiments/2026-07-20-s166.md) | Public | Public margin-adjusted another-approach source family, pending public score |
-| 2026-07-20 | [`2026-07-20-s167.md`](../experiments/2026-07-20-s167.md) | Public | Public Shadowcat Firewall M42 source family, pending public score |
+| 2026-07-20 | [`2026-07-20-s163.md`](../experiments/2026-07-20-s163.md) | Public | Sixth repeat of the high-scoring public single-message replay-safe selector, score 78.705 |
+| 2026-07-20 | [`2026-07-20-s164.md`](../experiments/2026-07-20-s164.md) | Public | Public another-approach source family, score 69.390 |
+| 2026-07-20 | [`2026-07-20-s165.md`](../experiments/2026-07-20-s165.md) | Public | Public budget-adjusted another-approach source family, score 71.280 |
+| 2026-07-20 | [`2026-07-20-s166.md`](../experiments/2026-07-20-s166.md) | Public | Public margin-adjusted another-approach source family, score 72.530 |
+| 2026-07-20 | [`2026-07-20-s167.md`](../experiments/2026-07-20-s167.md) | Public | Public Shadowcat Firewall M42 source family, score 0.450 |
