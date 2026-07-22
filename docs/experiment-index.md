@@ -179,3 +179,4 @@
 | 2026-07-22 | [`2026-07-22-s174.md`](../experiments/2026-07-22-s174.md) | Public | Thirteenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-22 | [`2026-07-22-s175.md`](../experiments/2026-07-22-s175.md) | Public | Fourteenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
 | 2026-07-22 | [`2026-07-22-s176.md`](../experiments/2026-07-22-s176.md) | Public | Public Canqiang EAB source family, pending public score |
+| 2026-07-22 | [`2026-07-22-s177.md`](../experiments/2026-07-22-s177.md) | Public | Public Tetsutani adaptive-race source family, pending public score |
