@@ -321,3 +321,4 @@
 - Recorded completed outcomes for s168 through s172.
 - Added pending record for s173.
 - Added pending record for s174.
+- Added pending records for s175 and s176.
