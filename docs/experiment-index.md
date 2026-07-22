@@ -170,8 +170,8 @@
 | 2026-07-20 | [`2026-07-20-s165.md`](../experiments/2026-07-20-s165.md) | Public | Public budget-adjusted another-approach source family, score 71.280 |
 | 2026-07-20 | [`2026-07-20-s166.md`](../experiments/2026-07-20-s166.md) | Public | Public margin-adjusted another-approach source family, score 72.530 |
 | 2026-07-20 | [`2026-07-20-s167.md`](../experiments/2026-07-20-s167.md) | Public | Public Shadowcat Firewall M42 source family, score 0.450 |
-| 2026-07-21 | [`2026-07-21-s168.md`](../experiments/2026-07-21-s168.md) | Public | Seventh repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-21 | [`2026-07-21-s169.md`](../experiments/2026-07-21-s169.md) | Public | Eighth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-21 | [`2026-07-21-s170.md`](../experiments/2026-07-21-s170.md) | Public | Ninth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-21 | [`2026-07-21-s171.md`](../experiments/2026-07-21-s171.md) | Public | Tenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-21 | [`2026-07-21-s172.md`](../experiments/2026-07-21-s172.md) | Public | Eleventh repeat of the high-scoring public single-message replay-safe selector, pending public score |
+| 2026-07-21 | [`2026-07-21-s168.md`](../experiments/2026-07-21-s168.md) | Public | Seventh repeat of the high-scoring public single-message replay-safe selector, score 74.475 |
+| 2026-07-21 | [`2026-07-21-s169.md`](../experiments/2026-07-21-s169.md) | Public | Eighth repeat of the high-scoring public single-message replay-safe selector, score 74.430 |
+| 2026-07-21 | [`2026-07-21-s170.md`](../experiments/2026-07-21-s170.md) | Public | Ninth repeat of the high-scoring public single-message replay-safe selector, score 78.255 |
+| 2026-07-21 | [`2026-07-21-s171.md`](../experiments/2026-07-21-s171.md) | Public | Tenth repeat of the high-scoring public single-message replay-safe selector, score 80.100 |
+| 2026-07-21 | [`2026-07-21-s172.md`](../experiments/2026-07-21-s172.md) | Public | Eleventh repeat of the high-scoring public single-message replay-safe selector, score 80.370 |
