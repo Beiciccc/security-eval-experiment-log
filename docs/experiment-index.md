@@ -175,8 +175,8 @@
 | 2026-07-21 | [`2026-07-21-s170.md`](../experiments/2026-07-21-s170.md) | Public | Ninth repeat of the high-scoring public single-message replay-safe selector, score 78.255 |
 | 2026-07-21 | [`2026-07-21-s171.md`](../experiments/2026-07-21-s171.md) | Public | Tenth repeat of the high-scoring public single-message replay-safe selector, score 80.100 |
 | 2026-07-21 | [`2026-07-21-s172.md`](../experiments/2026-07-21-s172.md) | Public | Eleventh repeat of the high-scoring public single-message replay-safe selector, score 80.370 |
-| 2026-07-22 | [`2026-07-22-s173.md`](../experiments/2026-07-22-s173.md) | Public | Twelfth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-22 | [`2026-07-22-s174.md`](../experiments/2026-07-22-s174.md) | Public | Thirteenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-22 | [`2026-07-22-s175.md`](../experiments/2026-07-22-s175.md) | Public | Fourteenth repeat of the high-scoring public single-message replay-safe selector, pending public score |
-| 2026-07-22 | [`2026-07-22-s176.md`](../experiments/2026-07-22-s176.md) | Public | Public Canqiang EAB source family, pending public score |
-| 2026-07-22 | [`2026-07-22-s177.md`](../experiments/2026-07-22-s177.md) | Public | Public Tetsutani adaptive-race source family, pending public score |
+| 2026-07-22 | [`2026-07-22-s173.md`](../experiments/2026-07-22-s173.md) | Public | Twelfth repeat of the high-scoring public single-message replay-safe selector, score 81.180 |
+| 2026-07-22 | [`2026-07-22-s174.md`](../experiments/2026-07-22-s174.md) | Public | Thirteenth repeat of the high-scoring public single-message replay-safe selector, score 79.830 |
+| 2026-07-22 | [`2026-07-22-s175.md`](../experiments/2026-07-22-s175.md) | Public | Fourteenth repeat of the high-scoring public single-message replay-safe selector, score 72.180 |
+| 2026-07-22 | [`2026-07-22-s176.md`](../experiments/2026-07-22-s176.md) | Public | Public Canqiang EAB source family, score 75.780 |
+| 2026-07-22 | [`2026-07-22-s177.md`](../experiments/2026-07-22-s177.md) | Public | Public Tetsutani adaptive-race source family, score 78.885 |

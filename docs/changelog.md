@@ -323,3 +323,7 @@
 - Added pending record for s174.
 - Added pending records for s175 and s176.
 - Added pending record for s177.
+
+## 2026-07-23
+
+- Recorded completed outcomes for s173 through s177.
