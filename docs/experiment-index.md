@@ -183,3 +183,4 @@
 | 2026-07-23 | [`2026-07-23-s178.md`](../experiments/2026-07-23-s178.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-23 | [`2026-07-23-s179.md`](../experiments/2026-07-23-s179.md) | Public | Latest public single-message selector source family, pending public score |
 | 2026-07-23 | [`2026-07-23-s180.md`](../experiments/2026-07-23-s180.md) | Public | Latest public single-message selector source family repeat, pending public score |
+| 2026-07-23 | [`2026-07-23-s181.md`](../experiments/2026-07-23-s181.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
