@@ -180,3 +180,4 @@
 | 2026-07-22 | [`2026-07-22-s175.md`](../experiments/2026-07-22-s175.md) | Public | Fourteenth repeat of the high-scoring public single-message replay-safe selector, score 72.180 |
 | 2026-07-22 | [`2026-07-22-s176.md`](../experiments/2026-07-22-s176.md) | Public | Public Canqiang EAB source family, score 75.780 |
 | 2026-07-22 | [`2026-07-22-s177.md`](../experiments/2026-07-22-s177.md) | Public | Public Tetsutani adaptive-race source family, score 78.885 |
+| 2026-07-23 | [`2026-07-23-s178.md`](../experiments/2026-07-23-s178.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
