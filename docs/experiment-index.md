@@ -189,3 +189,4 @@
 | 2026-07-24 | [`2026-07-24-s184.md`](../experiments/2026-07-24-s184.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-24 | [`2026-07-24-s185.md`](../experiments/2026-07-24-s185.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-24 | [`2026-07-24-s186.md`](../experiments/2026-07-24-s186.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
+| 2026-07-24 | [`2026-07-24-s187.md`](../experiments/2026-07-24-s187.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
