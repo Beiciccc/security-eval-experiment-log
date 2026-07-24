@@ -122,6 +122,11 @@ Latest completed public scores:
 - `s175`: public score `72.180`
 - `s176`: public score `75.780`
 - `s177`: public score `78.885`
+- `s178`: public score `82.170`
+- `s179`: public score `82.215`
+- `s180`: public score `81.450`
+- `s181`: public score `84.915`
+- `s182`: public score `81.450`
 
 Completed without a reported public score:
 
@@ -196,11 +201,7 @@ Completed without a listed public score:
 
 Accepted submissions pending public scores:
 
-- `s178`
-- `s179`
-- `s180`
-- `s181`
-- `s182`
+None.
 
 ## Data
 
