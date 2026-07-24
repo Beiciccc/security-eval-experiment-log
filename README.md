@@ -201,6 +201,12 @@ Completed without a listed public score:
 
 Accepted submissions pending public scores:
 
+- `s133`
+- `s134`
+- `s135`
+- `s136`
+- `s137`
+- `s139`
 - `s183`
 
 ## Data
