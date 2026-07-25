@@ -127,6 +127,11 @@ Latest completed public scores:
 - `s180`: public score `81.450`
 - `s181`: public score `84.915`
 - `s182`: public score `81.450`
+- `s183`: public score `82.350`
+- `s184`: public score `82.350`
+- `s185`: public score `83.970`
+- `s186`: public score `79.470`
+- `s187`: public score `77.355`
 
 Completed without a reported public score:
 
