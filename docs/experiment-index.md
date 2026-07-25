@@ -192,3 +192,4 @@
 | 2026-07-24 | [`2026-07-24-s187.md`](../experiments/2026-07-24-s187.md) | Public | Public Tetsutani adaptive-race source family repeat, score 77.355 |
 | 2026-07-25 | [`2026-07-25-s188.md`](../experiments/2026-07-25-s188.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-25 | [`2026-07-25-s189.md`](../experiments/2026-07-25-s189.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
+| 2026-07-25 | [`2026-07-25-s190.md`](../experiments/2026-07-25-s190.md) | Public | Latest public single-message selector source family repeat, pending public score |
