@@ -185,8 +185,8 @@
 | 2026-07-23 | [`2026-07-23-s180.md`](../experiments/2026-07-23-s180.md) | Public | Latest public single-message selector source family repeat, score 81.450 |
 | 2026-07-23 | [`2026-07-23-s181.md`](../experiments/2026-07-23-s181.md) | Public | Public Tetsutani adaptive-race source family repeat, score 84.915 |
 | 2026-07-23 | [`2026-07-23-s182.md`](../experiments/2026-07-23-s182.md) | Public | Fifteenth repeat of the high-scoring public single-message replay-safe selector, score 81.450 |
-| 2026-07-24 | [`2026-07-24-s183.md`](../experiments/2026-07-24-s183.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-24 | [`2026-07-24-s184.md`](../experiments/2026-07-24-s184.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-24 | [`2026-07-24-s185.md`](../experiments/2026-07-24-s185.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-24 | [`2026-07-24-s186.md`](../experiments/2026-07-24-s186.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-24 | [`2026-07-24-s187.md`](../experiments/2026-07-24-s187.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
+| 2026-07-24 | [`2026-07-24-s183.md`](../experiments/2026-07-24-s183.md) | Public | Public Tetsutani adaptive-race source family repeat, score 82.350 |
+| 2026-07-24 | [`2026-07-24-s184.md`](../experiments/2026-07-24-s184.md) | Public | Public Tetsutani adaptive-race source family repeat, score 82.350 |
+| 2026-07-24 | [`2026-07-24-s185.md`](../experiments/2026-07-24-s185.md) | Public | Public Tetsutani adaptive-race source family repeat, score 83.970 |
+| 2026-07-24 | [`2026-07-24-s186.md`](../experiments/2026-07-24-s186.md) | Public | Public Tetsutani adaptive-race source family repeat, score 79.470 |
+| 2026-07-24 | [`2026-07-24-s187.md`](../experiments/2026-07-24-s187.md) | Public | Public Tetsutani adaptive-race source family repeat, score 77.355 |
