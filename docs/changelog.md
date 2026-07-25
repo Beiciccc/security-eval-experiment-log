@@ -346,3 +346,5 @@
 
 - Recorded completed outcomes for s183 through s187.
 - Added pending record for s188.
+- Added pending record for s189.
+- Added pending record for s189.
