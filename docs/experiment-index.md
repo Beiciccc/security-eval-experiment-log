@@ -197,3 +197,4 @@
 | 2026-07-25 | [`2026-07-25-s192.md`](../experiments/2026-07-25-s192.md) | Public | Public three-probe source family repeat, score 87.525 |
 | 2026-07-26 | [`2026-07-26-s193.md`](../experiments/2026-07-26-s193.md) | Public | Public reduced-probe source family, pending public score |
 | 2026-07-26 | [`2026-07-26-s194.md`](../experiments/2026-07-26-s194.md) | Public | Public reduced-probe source family repeat, pending public score |
+| 2026-07-26 | [`2026-07-26-s195.md`](../experiments/2026-07-26-s195.md) | Public | Public three-probe source family control repeat, pending public score |
