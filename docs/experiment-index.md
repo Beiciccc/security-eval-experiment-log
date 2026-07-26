@@ -190,8 +190,8 @@
 | 2026-07-24 | [`2026-07-24-s185.md`](../experiments/2026-07-24-s185.md) | Public | Public Tetsutani adaptive-race source family repeat, score 83.970 |
 | 2026-07-24 | [`2026-07-24-s186.md`](../experiments/2026-07-24-s186.md) | Public | Public Tetsutani adaptive-race source family repeat, score 79.470 |
 | 2026-07-24 | [`2026-07-24-s187.md`](../experiments/2026-07-24-s187.md) | Public | Public Tetsutani adaptive-race source family repeat, score 77.355 |
-| 2026-07-25 | [`2026-07-25-s188.md`](../experiments/2026-07-25-s188.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-25 | [`2026-07-25-s189.md`](../experiments/2026-07-25-s189.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
-| 2026-07-25 | [`2026-07-25-s190.md`](../experiments/2026-07-25-s190.md) | Public | Latest public single-message selector source family repeat, pending public score |
-| 2026-07-25 | [`2026-07-25-s191.md`](../experiments/2026-07-25-s191.md) | Public | Public three-probe source family, pending public score |
-| 2026-07-25 | [`2026-07-25-s192.md`](../experiments/2026-07-25-s192.md) | Public | Public three-probe source family repeat, pending public score |
+| 2026-07-25 | [`2026-07-25-s188.md`](../experiments/2026-07-25-s188.md) | Public | Public Tetsutani adaptive-race source family repeat, score 80.820 |
+| 2026-07-25 | [`2026-07-25-s189.md`](../experiments/2026-07-25-s189.md) | Public | Public Tetsutani adaptive-race source family repeat, score 80.460 |
+| 2026-07-25 | [`2026-07-25-s190.md`](../experiments/2026-07-25-s190.md) | Public | Latest public single-message selector source family repeat, score 84.510 |
+| 2026-07-25 | [`2026-07-25-s191.md`](../experiments/2026-07-25-s191.md) | Public | Public three-probe source family, score 83.790 |
+| 2026-07-25 | [`2026-07-25-s192.md`](../experiments/2026-07-25-s192.md) | Public | Public three-probe source family repeat, score 87.525 |
