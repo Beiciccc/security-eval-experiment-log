@@ -221,7 +221,8 @@ Accepted submissions pending public scores:
 - `s135`
 - `s136`
 - `s137`
-- `s139`- `s198`
+- `s139`
+- `s198`
 - `s199`
 - `s200`
 - `s201`
