@@ -204,3 +204,4 @@
 | 2026-07-27 | [`2026-07-27-s199.md`](../experiments/2026-07-27-s199.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
 | 2026-07-27 | [`2026-07-27-s200.md`](../experiments/2026-07-27-s200.md) | Public | Public three-probe source family control repeat, pending public score |
 | 2026-07-27 | [`2026-07-27-s201.md`](../experiments/2026-07-27-s201.md) | Public | Public reduced-probe source family repeat, pending public score |
+| 2026-07-27 | [`2026-07-27-s202.md`](../experiments/2026-07-27-s202.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
