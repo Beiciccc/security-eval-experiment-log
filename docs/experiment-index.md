@@ -195,8 +195,8 @@
 | 2026-07-25 | [`2026-07-25-s190.md`](../experiments/2026-07-25-s190.md) | Public | Latest public single-message selector source family repeat, score 84.510 |
 | 2026-07-25 | [`2026-07-25-s191.md`](../experiments/2026-07-25-s191.md) | Public | Public three-probe source family, score 83.790 |
 | 2026-07-25 | [`2026-07-25-s192.md`](../experiments/2026-07-25-s192.md) | Public | Public three-probe source family repeat, score 87.525 |
-| 2026-07-26 | [`2026-07-26-s193.md`](../experiments/2026-07-26-s193.md) | Public | Public reduced-probe source family, pending public score |
-| 2026-07-26 | [`2026-07-26-s194.md`](../experiments/2026-07-26-s194.md) | Public | Public reduced-probe source family repeat, pending public score |
-| 2026-07-26 | [`2026-07-26-s195.md`](../experiments/2026-07-26-s195.md) | Public | Public three-probe source family control repeat, pending public score |
-| 2026-07-26 | [`2026-07-26-s196.md`](../experiments/2026-07-26-s196.md) | Public | Public reduced-probe source family repeat, pending public score |
-| 2026-07-26 | [`2026-07-26-s197.md`](../experiments/2026-07-26-s197.md) | Public | Latest public single-message selector source family repeat, pending public score |
+| 2026-07-26 | [`2026-07-26-s193.md`](../experiments/2026-07-26-s193.md) | Public | Public reduced-probe source family, score 84.825 |
+| 2026-07-26 | [`2026-07-26-s194.md`](../experiments/2026-07-26-s194.md) | Public | Public reduced-probe source family repeat, score 84.690 |
+| 2026-07-26 | [`2026-07-26-s195.md`](../experiments/2026-07-26-s195.md) | Public | Public three-probe source family control repeat, no listed public score |
+| 2026-07-26 | [`2026-07-26-s196.md`](../experiments/2026-07-26-s196.md) | Public | Public reduced-probe source family repeat, score 85.050 |
+| 2026-07-26 | [`2026-07-26-s197.md`](../experiments/2026-07-26-s197.md) | Public | Latest public single-message selector source family repeat, score 78.930 |
