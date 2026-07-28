@@ -200,8 +200,8 @@
 | 2026-07-26 | [`2026-07-26-s195.md`](../experiments/2026-07-26-s195.md) | Public | Public three-probe source family control repeat, no listed public score |
 | 2026-07-26 | [`2026-07-26-s196.md`](../experiments/2026-07-26-s196.md) | Public | Public reduced-probe source family repeat, score 85.050 |
 | 2026-07-26 | [`2026-07-26-s197.md`](../experiments/2026-07-26-s197.md) | Public | Latest public single-message selector source family repeat, score 78.930 |
-| 2026-07-27 | [`2026-07-27-s198.md`](../experiments/2026-07-27-s198.md) | Public | Latest public Dimong v35 source family, pending public score |
-| 2026-07-27 | [`2026-07-27-s199.md`](../experiments/2026-07-27-s199.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
-| 2026-07-27 | [`2026-07-27-s200.md`](../experiments/2026-07-27-s200.md) | Public | Public three-probe source family control repeat, pending public score |
-| 2026-07-27 | [`2026-07-27-s201.md`](../experiments/2026-07-27-s201.md) | Public | Public reduced-probe source family repeat, pending public score |
-| 2026-07-27 | [`2026-07-27-s202.md`](../experiments/2026-07-27-s202.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
+| 2026-07-27 | [`2026-07-27-s198.md`](../experiments/2026-07-27-s198.md) | Public | Latest public Dimong v35 source family, score 83.160 |
+| 2026-07-27 | [`2026-07-27-s199.md`](../experiments/2026-07-27-s199.md) | Public | Latest public Dimong v35 source family repeat, score 83.070 |
+| 2026-07-27 | [`2026-07-27-s200.md`](../experiments/2026-07-27-s200.md) | Public | Public three-probe source family control repeat, score 79.155 |
+| 2026-07-27 | [`2026-07-27-s201.md`](../experiments/2026-07-27-s201.md) | Public | Public reduced-probe source family repeat, score 76.590 |
+| 2026-07-27 | [`2026-07-27-s202.md`](../experiments/2026-07-27-s202.md) | Public | Latest public Dimong v35 source family repeat, no listed public score |

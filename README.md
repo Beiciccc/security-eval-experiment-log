@@ -141,6 +141,10 @@ Latest completed public scores:
 - `s194`: public score `84.690`
 - `s196`: public score `85.050`
 - `s197`: public score `78.930`
+- `s198`: public score `83.160`
+- `s199`: public score `83.070`
+- `s200`: public score `79.155`
+- `s201`: public score `76.590`
 
 Completed without a reported public score:
 
@@ -213,6 +217,7 @@ Completed without a listed public score:
 - `s157`
 - `s161`
 - `s195`
+- `s202`
 
 Accepted submissions pending public scores:
 
@@ -222,11 +227,6 @@ Accepted submissions pending public scores:
 - `s136`
 - `s137`
 - `s139`
-- `s198`
-- `s199`
-- `s200`
-- `s201`
-- `s202`
 
 
 ## Data
