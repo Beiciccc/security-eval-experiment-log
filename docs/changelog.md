@@ -362,6 +362,7 @@
 
 ## 2026-07-28
 
+- Added pending record for s207.
 - Added pending record for s206.
 - Added pending record for s205.
 - Added pending record for s204.
