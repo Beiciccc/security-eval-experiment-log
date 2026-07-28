@@ -206,3 +206,4 @@
 | 2026-07-27 | [`2026-07-27-s201.md`](../experiments/2026-07-27-s201.md) | Public | Public reduced-probe source family repeat, score 76.590 |
 | 2026-07-27 | [`2026-07-27-s202.md`](../experiments/2026-07-27-s202.md) | Public | Latest public Dimong v35 source family repeat, no listed public score |
 | 2026-07-28 | [`2026-07-28-s203.md`](../experiments/2026-07-28-s203.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
+| 2026-07-28 | [`2026-07-28-s204.md`](../experiments/2026-07-28-s204.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
