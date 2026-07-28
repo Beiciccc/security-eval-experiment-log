@@ -208,3 +208,4 @@
 | 2026-07-28 | [`2026-07-28-s203.md`](../experiments/2026-07-28-s203.md) | Public | Latest public Dimong v35 source family repeat, pending public score |
 | 2026-07-28 | [`2026-07-28-s204.md`](../experiments/2026-07-28-s204.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-28 | [`2026-07-28-s205.md`](../experiments/2026-07-28-s205.md) | Public | Public three-probe source family control repeat, pending public score |
+| 2026-07-28 | [`2026-07-28-s206.md`](../experiments/2026-07-28-s206.md) | Public | Public reduced-probe source family repeat, pending public score |
