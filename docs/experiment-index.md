@@ -210,3 +210,4 @@
 | 2026-07-28 | [`2026-07-28-s205.md`](../experiments/2026-07-28-s205.md) | Public | Public three-probe source family control repeat, score 83.970 |
 | 2026-07-28 | [`2026-07-28-s206.md`](../experiments/2026-07-28-s206.md) | Public | Public reduced-probe source family repeat, score 81.270 |
 | 2026-07-28 | [`2026-07-28-s207.md`](../experiments/2026-07-28-s207.md) | Public | Public Tetsutani uniform recovery source family, no listed public score |
+| 2026-07-30 | [`2026-07-30-s208.md`](../experiments/2026-07-30-s208.md) | Public | Public v25 replay-safe frame source family, pending public score |
