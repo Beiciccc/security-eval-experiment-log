@@ -201,8 +201,8 @@ date,submission,status,public_score,notes
 2026-07-27,s200,complete,79.155,public three-probe source family control repeat completed
 2026-07-27,s201,complete,76.590,public reduced-probe source family repeat completed
 2026-07-27,s202,complete,,latest public Dimong v35 source family repeat completed without listed public score
-2026-07-28,s203,pending,,latest public Dimong v35 source family repeat pending public score
-2026-07-28,s204,pending,,public Tetsutani adaptive-race source family repeat pending public score
-2026-07-28,s205,pending,,public three-probe source family control repeat pending public score
-2026-07-28,s206,pending,,public reduced-probe source family repeat pending public score
-2026-07-28,s207,pending,,public Tetsutani uniform recovery source family pending public score
+2026-07-28,s203,complete,84.915,latest public Dimong v35 source family repeat completed
+2026-07-28,s204,complete,85.140,public Tetsutani adaptive-race source family repeat completed
+2026-07-28,s205,complete,83.970,public three-probe source family control repeat completed
+2026-07-28,s206,complete,81.270,public reduced-probe source family repeat completed
+2026-07-28,s207,complete,,public Tetsutani uniform recovery source family completed without listed public score
