@@ -214,3 +214,4 @@
 | 2026-07-30 | [`2026-07-30-s209.md`](../experiments/2026-07-30-s209.md) | Public | Public v37 median warmup source family, pending public score |
 | 2026-07-30 | [`2026-07-30-s210.md`](../experiments/2026-07-30-s210.md) | Public | Public Tetsutani adaptive-race source family repeat, pending public score |
 | 2026-07-30 | [`2026-07-30-s211.md`](../experiments/2026-07-30-s211.md) | Public | Public Dimong v35 source family repeat, pending public score |
+| 2026-07-30 | [`2026-07-30-s212.md`](../experiments/2026-07-30-s212.md) | Public | Public three-probe source family control repeat, pending public score |
