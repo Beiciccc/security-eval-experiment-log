@@ -217,3 +217,4 @@
 | 2026-07-30 | [`2026-07-30-s212.md`](../experiments/2026-07-30-s212.md) | Public | Public three-probe source family control repeat, score 86.355 |
 | 2026-07-31 | [`2026-07-31-s213.md`](../experiments/2026-07-31-s213.md) | Public | Public three-probe source family control repeat, pending public score |
 | 2026-07-31 | [`2026-07-31-s214.md`](../experiments/2026-07-31-s214.md) | Public | Public Dimong v35 source family repeat, pending public score |
+| 2026-07-31 | [`2026-07-31-s215.md`](../experiments/2026-07-31-s215.md) | Public | Public three-probe source family control repeat, pending public score |
