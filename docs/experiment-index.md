@@ -219,3 +219,4 @@
 | 2026-07-31 | [`2026-07-31-s214.md`](../experiments/2026-07-31-s214.md) | Public | Public Dimong v35 source family repeat, pending public score |
 | 2026-07-31 | [`2026-07-31-s215.md`](../experiments/2026-07-31-s215.md) | Public | Public three-probe source family control repeat, pending public score |
 | 2026-07-31 | [`2026-07-31-s216.md`](../experiments/2026-07-31-s216.md) | Public | Public Dimong v35 source family repeat, pending public score |
+| 2026-07-31 | [`2026-07-31-s217.md`](../experiments/2026-07-31-s217.md) | Public | Public Dimong v38 replay-fraction source family, pending public score |
