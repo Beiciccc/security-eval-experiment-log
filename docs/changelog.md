@@ -370,6 +370,10 @@
 - Added pending record for s208.
 - Recorded completed outcomes for s203 through s207.
 
+## 2026-07-31
+
+- Added pending record for s213.
+
 ## 2026-07-28
 
 - Added pending record for s207.
