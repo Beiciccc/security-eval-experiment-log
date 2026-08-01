@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-01
+
+- Added pending record for s218.
+
 ## 2026-06-13
 
 - Created public repository structure.

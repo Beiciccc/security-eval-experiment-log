@@ -220,3 +220,4 @@
 | 2026-07-31 | [`2026-07-31-s215.md`](../experiments/2026-07-31-s215.md) | Public | Public three-probe source family control repeat, score 81.495 |
 | 2026-07-31 | [`2026-07-31-s216.md`](../experiments/2026-07-31-s216.md) | Public | Public Dimong v35 source family repeat, score 79.470 |
 | 2026-07-31 | [`2026-07-31-s217.md`](../experiments/2026-07-31-s217.md) | Public | Public Dimong v38 replay-fraction source family, score 68.850 |
+| 2026-08-01 | [`2026-08-01-s218.md`](../experiments/2026-08-01-s218.md) | Public | Public 88.875 baseline source family repeat, pending public score |
