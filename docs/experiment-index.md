@@ -215,8 +215,8 @@
 | 2026-07-30 | [`2026-07-30-s210.md`](../experiments/2026-07-30-s210.md) | Public | Public Tetsutani adaptive-race source family repeat, score 83.655 |
 | 2026-07-30 | [`2026-07-30-s211.md`](../experiments/2026-07-30-s211.md) | Public | Public Dimong v35 source family repeat, score 85.005 |
 | 2026-07-30 | [`2026-07-30-s212.md`](../experiments/2026-07-30-s212.md) | Public | Public three-probe source family control repeat, score 86.355 |
-| 2026-07-31 | [`2026-07-31-s213.md`](../experiments/2026-07-31-s213.md) | Public | Public three-probe source family control repeat, pending public score |
-| 2026-07-31 | [`2026-07-31-s214.md`](../experiments/2026-07-31-s214.md) | Public | Public Dimong v35 source family repeat, pending public score |
-| 2026-07-31 | [`2026-07-31-s215.md`](../experiments/2026-07-31-s215.md) | Public | Public three-probe source family control repeat, pending public score |
-| 2026-07-31 | [`2026-07-31-s216.md`](../experiments/2026-07-31-s216.md) | Public | Public Dimong v35 source family repeat, pending public score |
-| 2026-07-31 | [`2026-07-31-s217.md`](../experiments/2026-07-31-s217.md) | Public | Public Dimong v38 replay-fraction source family, pending public score |
+| 2026-07-31 | [`2026-07-31-s213.md`](../experiments/2026-07-31-s213.md) | Public | Public three-probe source family control repeat, score 82.215 |
+| 2026-07-31 | [`2026-07-31-s214.md`](../experiments/2026-07-31-s214.md) | Public | Public Dimong v35 source family repeat, score 83.475 |
+| 2026-07-31 | [`2026-07-31-s215.md`](../experiments/2026-07-31-s215.md) | Public | Public three-probe source family control repeat, score 81.495 |
+| 2026-07-31 | [`2026-07-31-s216.md`](../experiments/2026-07-31-s216.md) | Public | Public Dimong v35 source family repeat, score 79.470 |
+| 2026-07-31 | [`2026-07-31-s217.md`](../experiments/2026-07-31-s217.md) | Public | Public Dimong v38 replay-fraction source family, score 68.850 |

@@ -211,8 +211,8 @@ date,submission,status,public_score,notes
 2026-07-30,s210,complete,83.655,public Tetsutani adaptive-race source family repeat completed
 2026-07-30,s211,complete,85.005,public Dimong v35 source family repeat completed
 2026-07-30,s212,complete,86.355,public three-probe source family control repeat completed
-2026-07-31,s213,pending,,public three-probe source family control repeat pending
-2026-07-31,s214,pending,,public Dimong v35 source family repeat pending
-2026-07-31,s215,pending,,public three-probe source family control repeat pending
-2026-07-31,s216,pending,,public Dimong v35 source family repeat pending
-2026-07-31,s217,pending,,public Dimong v38 replay-fraction source family pending
+2026-07-31,s213,complete,82.215,public three-probe source family control repeat completed
+2026-07-31,s214,complete,83.475,public Dimong v35 source family repeat completed
+2026-07-31,s215,complete,81.495,public three-probe source family control repeat completed
+2026-07-31,s216,complete,79.470,public Dimong v35 source family repeat completed
+2026-07-31,s217,complete,68.850,public Dimong v38 replay-fraction source family completed
