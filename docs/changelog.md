@@ -3,6 +3,7 @@
 ## 2026-08-02
 
 - Added pending record for s223.
+- Added pending record for s224.
 
 ## 2026-08-01
 
