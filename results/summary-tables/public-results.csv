@@ -221,3 +221,4 @@ date,submission,status,public_score,notes
 2026-08-01,s220,complete,83.790,public 88.875 baseline source family repeat completed
 2026-08-01,s221,complete,82.485,public three-probe source family control repeat completed
 2026-08-01,s222,complete,86.400,public v25 replay-safe frame source family repeat completed
+2026-08-02,s223,pending,,public v25 replay-safe frame source family repeat pending public score
