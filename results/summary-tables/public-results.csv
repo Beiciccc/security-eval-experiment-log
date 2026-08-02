@@ -216,8 +216,8 @@ date,submission,status,public_score,notes
 2026-07-31,s215,complete,81.495,public three-probe source family control repeat completed
 2026-07-31,s216,complete,79.470,public Dimong v35 source family repeat completed
 2026-07-31,s217,complete,68.850,public Dimong v38 replay-fraction source family completed
-2026-08-01,s218,pending,,public 88.875 baseline source family repeat pending public score
-2026-08-01,s219,pending,,public 88.875 baseline source family repeat pending public score
-2026-08-01,s220,pending,,public 88.875 baseline source family repeat pending public score
-2026-08-01,s221,pending,,public three-probe source family control repeat pending public score
-2026-08-01,s222,pending,,public v25 replay-safe frame source family repeat pending public score
+2026-08-01,s218,complete,,public 88.875 baseline source family repeat completed without listed public score
+2026-08-01,s219,complete,78.660,public 88.875 baseline source family repeat completed
+2026-08-01,s220,complete,83.790,public 88.875 baseline source family repeat completed
+2026-08-01,s221,complete,82.485,public three-probe source family control repeat completed
+2026-08-01,s222,complete,86.400,public v25 replay-safe frame source family repeat completed
