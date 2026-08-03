@@ -231,3 +231,4 @@
 | 2026-08-02 | [`2026-08-02-s226.md`](../experiments/2026-08-02-s226.md) | Public | Public v25 replay-safe frame source family repeat, score 85.905 |
 | 2026-08-02 | [`2026-08-02-s227.md`](../experiments/2026-08-02-s227.md) | Public | Public three-probe source family control repeat, score 81.990 |
 | 2026-08-03 | [`2026-08-03-s228.md`](../experiments/2026-08-03-s228.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
+| 2026-08-03 | [`2026-08-03-s229.md`](../experiments/2026-08-03-s229.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
