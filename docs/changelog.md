@@ -5,6 +5,7 @@
 - Added pending record for s228.
 - Added pending record for s229.
 - Added pending record for s230.
+- Added pending record for s231.
 
 ## 2026-08-02
 
