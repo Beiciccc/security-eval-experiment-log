@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-03
+
+- Added pending record for s228.
+
 ## 2026-08-02
 
 - Recorded completed outcomes for s223 through s227.
