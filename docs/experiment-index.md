@@ -230,8 +230,8 @@
 | 2026-08-02 | [`2026-08-02-s225.md`](../experiments/2026-08-02-s225.md) | Public | Public v25 replay-safe frame source family repeat, score 88.830 |
 | 2026-08-02 | [`2026-08-02-s226.md`](../experiments/2026-08-02-s226.md) | Public | Public v25 replay-safe frame source family repeat, score 85.905 |
 | 2026-08-02 | [`2026-08-02-s227.md`](../experiments/2026-08-02-s227.md) | Public | Public three-probe source family control repeat, score 81.990 |
-| 2026-08-03 | [`2026-08-03-s228.md`](../experiments/2026-08-03-s228.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-03 | [`2026-08-03-s229.md`](../experiments/2026-08-03-s229.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-03 | [`2026-08-03-s230.md`](../experiments/2026-08-03-s230.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-03 | [`2026-08-03-s231.md`](../experiments/2026-08-03-s231.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-03 | [`2026-08-03-s232.md`](../experiments/2026-08-03-s232.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
+| 2026-08-03 | [`2026-08-03-s228.md`](../experiments/2026-08-03-s228.md) | Public | Public v25 replay-safe frame source family repeat, score 86.040 |
+| 2026-08-03 | [`2026-08-03-s229.md`](../experiments/2026-08-03-s229.md) | Public | Public v25 replay-safe frame source family repeat, score 89.235 |
+| 2026-08-03 | [`2026-08-03-s230.md`](../experiments/2026-08-03-s230.md) | Public | Public v25 replay-safe frame source family repeat, score 81.090 |
+| 2026-08-03 | [`2026-08-03-s231.md`](../experiments/2026-08-03-s231.md) | Public | Public v25 replay-safe frame source family repeat, score 89.190 |
+| 2026-08-03 | [`2026-08-03-s232.md`](../experiments/2026-08-03-s232.md) | Public | Public v25 replay-safe frame source family repeat, score 84.195 |
