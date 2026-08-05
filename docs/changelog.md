@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-05
+
+- Recorded completed outcomes for s233 through s237.
+
 ## 2026-08-04
 
 - Recorded completed outcomes for s228 through s232.
