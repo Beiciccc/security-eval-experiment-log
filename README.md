@@ -264,6 +264,7 @@ Accepted submissions pending public scores:
 - `s139`
 - `s238`
 - `s239`
+- `s240`
 
 
 ## Data
