@@ -240,3 +240,4 @@
 | 2026-08-04 | [`2026-08-04-s235.md`](../experiments/2026-08-04-s235.md) | Public | Public v25 replay-safe frame source family repeat, score 88.110 |
 | 2026-08-04 | [`2026-08-04-s236.md`](../experiments/2026-08-04-s236.md) | Public | Public v25 replay-safe frame source family repeat, score 87.210 |
 | 2026-08-04 | [`2026-08-04-s237.md`](../experiments/2026-08-04-s237.md) | Public | Public Dimong latest burst source family, score 38.005 |
+| 2026-08-05 | [`2026-08-05-s238.md`](../experiments/2026-08-05-s238.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
