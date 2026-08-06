@@ -240,8 +240,8 @@
 | 2026-08-04 | [`2026-08-04-s235.md`](../experiments/2026-08-04-s235.md) | Public | Public v25 replay-safe frame source family repeat, score 88.110 |
 | 2026-08-04 | [`2026-08-04-s236.md`](../experiments/2026-08-04-s236.md) | Public | Public v25 replay-safe frame source family repeat, score 87.210 |
 | 2026-08-04 | [`2026-08-04-s237.md`](../experiments/2026-08-04-s237.md) | Public | Public Dimong latest burst source family, score 38.005 |
-| 2026-08-05 | [`2026-08-05-s238.md`](../experiments/2026-08-05-s238.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-05 | [`2026-08-05-s239.md`](../experiments/2026-08-05-s239.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-05 | [`2026-08-05-s240.md`](../experiments/2026-08-05-s240.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-05 | [`2026-08-05-s241.md`](../experiments/2026-08-05-s241.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
-| 2026-08-05 | [`2026-08-05-s242.md`](../experiments/2026-08-05-s242.md) | Public | Public slow multipost source family probe, pending public score |
+| 2026-08-05 | [`2026-08-05-s238.md`](../experiments/2026-08-05-s238.md) | Public | Public v25 replay-safe frame source family repeat, score 86.715 |
+| 2026-08-05 | [`2026-08-05-s239.md`](../experiments/2026-08-05-s239.md) | Public | Public v25 replay-safe frame source family repeat, score 86.310 |
+| 2026-08-05 | [`2026-08-05-s240.md`](../experiments/2026-08-05-s240.md) | Public | Public v25 replay-safe frame source family repeat, score 87.480 |
+| 2026-08-05 | [`2026-08-05-s241.md`](../experiments/2026-08-05-s241.md) | Public | Public v25 replay-safe frame source family repeat, score 87.165 |
+| 2026-08-05 | [`2026-08-05-s242.md`](../experiments/2026-08-05-s242.md) | Public | Public slow multipost source family probe, score 83.310 |

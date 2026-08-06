@@ -236,8 +236,8 @@ date,submission,status,public_score,notes
 2026-08-04,s235,complete,88.110,public v25 replay-safe frame source family repeat completed
 2026-08-04,s236,complete,87.210,public v25 replay-safe frame source family repeat completed
 2026-08-04,s237,complete,38.005,public Dimong latest burst source family completed
-2026-08-05,s238,pending,,public v25 replay-safe frame source family repeat pending public score
-2026-08-05,s239,pending,,public v25 replay-safe frame source family repeat pending public score
-2026-08-05,s240,pending,,public v25 replay-safe frame source family repeat pending public score
-2026-08-05,s241,pending,,public v25 replay-safe frame source family repeat pending public score
-2026-08-05,s242,pending,,public slow multipost source family probe pending public score
+2026-08-05,s238,complete,86.715,public v25 replay-safe frame source family repeat completed
+2026-08-05,s239,complete,86.310,public v25 replay-safe frame source family repeat completed
+2026-08-05,s240,complete,87.480,public v25 replay-safe frame source family repeat completed
+2026-08-05,s241,complete,87.165,public v25 replay-safe frame source family repeat completed
+2026-08-05,s242,complete,83.310,public slow multipost source family probe completed
