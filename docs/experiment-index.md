@@ -246,3 +246,4 @@
 | 2026-08-05 | [`2026-08-05-s241.md`](../experiments/2026-08-05-s241.md) | Public | Public v25 replay-safe frame source family repeat, score 87.165 |
 | 2026-08-05 | [`2026-08-05-s242.md`](../experiments/2026-08-05-s242.md) | Public | Public slow multipost source family probe, score 83.310 |
 | 2026-08-06 | [`2026-08-06-s243.md`](../experiments/2026-08-06-s243.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
+| 2026-08-06 | [`2026-08-06-s244.md`](../experiments/2026-08-06-s244.md) | Public | Public v25 replay-safe frame source family repeat, pending public score |
