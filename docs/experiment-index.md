@@ -253,3 +253,4 @@
 | 2026-08-07 | [`2026-08-07-s248.md`](../experiments/2026-08-07-s248.md) | Public | Public documented direct source family, pending public score |
 | 2026-08-07 | [`2026-08-07-s249.md`](../experiments/2026-08-07-s249.md) | Public | Public documented direct source family, pending public score |
 | 2026-08-07 | [`2026-08-07-s250.md`](../experiments/2026-08-07-s250.md) | Public | Public documented direct source family, pending public score |
+| 2026-08-07 | [`2026-08-07-s251.md`](../experiments/2026-08-07-s251.md) | Public | Public documented rotation source family, pending public score |
