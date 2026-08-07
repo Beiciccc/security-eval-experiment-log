@@ -2,6 +2,7 @@
 
 ## 2026-08-07
 
+- Added pending record for s250.
 - Added pending record for s249.
 - Added pending record for s248.
 - Recorded completed outcomes for s243 through s247.
