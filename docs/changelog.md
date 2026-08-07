@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-07
+
+- Recorded completed outcomes for s243 through s247.
+- Reconciled historic completed-without-score records.
+
 ## 2026-08-06
 
 - Added pending record for s247.
