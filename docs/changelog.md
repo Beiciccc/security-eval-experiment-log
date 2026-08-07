@@ -2,6 +2,7 @@
 
 ## 2026-08-07
 
+- Added pending record for s252.
 - Added pending record for s251.
 - Added pending record for s250.
 - Added pending record for s249.
