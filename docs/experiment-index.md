@@ -258,3 +258,4 @@
 | 2026-08-08 | [`2026-08-08-s253.md`](../experiments/2026-08-08-s253.md) | Public | Public v25 source family post-refresh calibration, pending public score |
 | 2026-08-08 | [`2026-08-08-s254.md`](../experiments/2026-08-08-s254.md) | Public | Public slow multipost source family post-refresh calibration, pending public score |
 | 2026-08-08 | [`2026-08-08-s255.md`](../experiments/2026-08-08-s255.md) | Public | Public v312 source family post-refresh calibration, pending public score |
+| 2026-08-08 | [`2026-08-08-s256.md`](../experiments/2026-08-08-s256.md) | Public | Public eab source family post-refresh calibration, pending public score |
