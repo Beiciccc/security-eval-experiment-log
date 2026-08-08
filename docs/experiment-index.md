@@ -250,8 +250,8 @@
 | 2026-08-06 | [`2026-08-06-s245.md`](../experiments/2026-08-06-s245.md) | Public | Public v25 replay-safe frame source family repeat, score 77.805 |
 | 2026-08-06 | [`2026-08-06-s246.md`](../experiments/2026-08-06-s246.md) | Public | Public v25 replay-safe frame source family repeat, score 77.715 |
 | 2026-08-06 | [`2026-08-06-s247.md`](../experiments/2026-08-06-s247.md) | Public | Public v25 replay-safe frame source family repeat, score 80.910 |
-| 2026-08-07 | [`2026-08-07-s248.md`](../experiments/2026-08-07-s248.md) | Public | Public documented direct source family, pending public score |
-| 2026-08-07 | [`2026-08-07-s249.md`](../experiments/2026-08-07-s249.md) | Public | Public documented direct source family, pending public score |
-| 2026-08-07 | [`2026-08-07-s250.md`](../experiments/2026-08-07-s250.md) | Public | Public documented direct source family, pending public score |
-| 2026-08-07 | [`2026-08-07-s251.md`](../experiments/2026-08-07-s251.md) | Public | Public documented rotation source family, pending public score |
-| 2026-08-07 | [`2026-08-07-s252.md`](../experiments/2026-08-07-s252.md) | Public | Public documented direct source family, pending public score |
+| 2026-08-07 | [`2026-08-07-s248.md`](../experiments/2026-08-07-s248.md) | Public | Public documented direct source family, returned with score 3.850 after evaluation error |
+| 2026-08-07 | [`2026-08-07-s249.md`](../experiments/2026-08-07-s249.md) | Public | Public documented direct source family, returned with score 5.130 after evaluation error |
+| 2026-08-07 | [`2026-08-07-s250.md`](../experiments/2026-08-07-s250.md) | Public | Public documented direct source family, returned with score 6.410 after evaluation error |
+| 2026-08-07 | [`2026-08-07-s251.md`](../experiments/2026-08-07-s251.md) | Public | Public documented rotation source family, returned with score 6.410 after evaluation error |
+| 2026-08-07 | [`2026-08-07-s252.md`](../experiments/2026-08-07-s252.md) | Public | Public documented direct source family, returned with score 7.690 after evaluation error |

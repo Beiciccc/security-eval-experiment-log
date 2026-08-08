@@ -189,6 +189,14 @@ Latest completed public scores:
 - `s246`: public score `77.715`
 - `s247`: public score `80.910`
 
+Returned with a public score after evaluation error:
+
+- `s248`: public score `3.850`
+- `s249`: public score `5.130`
+- `s250`: public score `6.410`
+- `s251`: public score `6.410`
+- `s252`: public score `7.690`
+
 Completed without a reported public score:
 
 - `s06`
@@ -265,12 +273,6 @@ Completed without a listed public score:
 - `s218`
 
 Accepted submissions pending public scores:
-
-- `s248`
-- `s249`
-- `s250`
-- `s251`
-- `s252`
 
 
 ## Data

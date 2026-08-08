@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08
+
+- Recorded error-with-score outcomes for s248 through s252.
+
 ## 2026-08-07
 
 - Added pending record for s252.

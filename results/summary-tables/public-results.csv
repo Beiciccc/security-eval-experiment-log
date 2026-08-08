@@ -246,8 +246,8 @@ date,submission,status,public_score,notes
 2026-08-06,s245,complete,77.805,public v25 replay-safe frame source family repeat completed
 2026-08-06,s246,complete,77.715,public v25 replay-safe frame source family repeat completed
 2026-08-06,s247,complete,80.910,public v25 replay-safe frame source family repeat completed
-2026-08-07,s248,pending,,public documented direct source family pending public score
-2026-08-07,s249,pending,,public documented direct source family pending public score
-2026-08-07,s250,pending,,public documented direct source family pending public score
-2026-08-07,s251,pending,,public documented rotation source family pending public score
-2026-08-07,s252,pending,,public documented direct source family pending public score
+2026-08-07,s248,error,3.850,public documented direct source family returned with public score after evaluation error
+2026-08-07,s249,error,5.130,public documented direct source family returned with public score after evaluation error
+2026-08-07,s250,error,6.410,public documented direct source family returned with public score after evaluation error
+2026-08-07,s251,error,6.410,public documented rotation source family returned with public score after evaluation error
+2026-08-07,s252,error,7.690,public documented direct source family returned with public score after evaluation error
