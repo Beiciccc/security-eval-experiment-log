@@ -274,6 +274,7 @@ Completed without a listed public score:
 
 Accepted submissions pending public scores:
 
+- `s253`
 
 ## Data
 

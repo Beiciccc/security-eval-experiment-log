@@ -251,3 +251,4 @@ date,submission,status,public_score,notes
 2026-08-07,s250,error,6.410,public documented direct source family returned with public score after evaluation error
 2026-08-07,s251,error,6.410,public documented rotation source family returned with public score after evaluation error
 2026-08-07,s252,error,7.690,public documented direct source family returned with public score after evaluation error
+2026-08-08,s253,pending,,public v25 source family post-refresh calibration pending public score
