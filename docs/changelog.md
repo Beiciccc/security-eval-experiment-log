@@ -2,6 +2,7 @@
 
 ## 2026-08-08
 
+- Added pending record for s254.
 - Added pending record for s253.
 - Recorded error-with-score outcomes for s248 through s252.
 
