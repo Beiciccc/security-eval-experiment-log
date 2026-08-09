@@ -207,6 +207,7 @@ Accepted submissions pending public scores:
 - `s258`
 - `s259`
 - `s260`
+- `s261`
 
 Completed without a reported public score:
 
