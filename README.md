@@ -205,6 +205,7 @@ Returned with a public score after evaluation error:
 Accepted submissions pending public scores:
 
 - `s258`
+- `s259`
 
 Completed without a reported public score:
 

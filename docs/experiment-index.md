@@ -261,3 +261,4 @@
 | 2026-08-08 | [`2026-08-08-s256.md`](../experiments/2026-08-08-s256.md) | Public | Public eab source family post-refresh calibration, score 78.930 |
 | 2026-08-08 | [`2026-08-08-s257.md`](../experiments/2026-08-08-s257.md) | Public | Public latest source family post-refresh calibration, score 81.575 |
 | 2026-08-09 | [`2026-08-09-s258.md`](../experiments/2026-08-09-s258.md) | Public | Public v25 source family post-refresh repeat, pending public score |
+| 2026-08-09 | [`2026-08-09-s259.md`](../experiments/2026-08-09-s259.md) | Public | Public v25 source family post-refresh repeat, pending public score |
