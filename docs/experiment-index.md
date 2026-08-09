@@ -264,3 +264,4 @@
 | 2026-08-09 | [`2026-08-09-s259.md`](../experiments/2026-08-09-s259.md) | Public | Public v25 source family post-refresh repeat, pending public score |
 | 2026-08-09 | [`2026-08-09-s260.md`](../experiments/2026-08-09-s260.md) | Public | Public v25 source family post-refresh repeat, pending public score |
 | 2026-08-09 | [`2026-08-09-s261.md`](../experiments/2026-08-09-s261.md) | Public | Public latest source family post-refresh repeat, pending public score |
+| 2026-08-09 | [`2026-08-09-s262.md`](../experiments/2026-08-09-s262.md) | Public | Public hitherto source family post-refresh probe, pending public score |
