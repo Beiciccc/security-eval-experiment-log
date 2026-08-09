@@ -255,8 +255,8 @@
 | 2026-08-07 | [`2026-08-07-s250.md`](../experiments/2026-08-07-s250.md) | Public | Public documented direct source family, returned with score 6.410 after evaluation error |
 | 2026-08-07 | [`2026-08-07-s251.md`](../experiments/2026-08-07-s251.md) | Public | Public documented rotation source family, returned with score 6.410 after evaluation error |
 | 2026-08-07 | [`2026-08-07-s252.md`](../experiments/2026-08-07-s252.md) | Public | Public documented direct source family, returned with score 7.690 after evaluation error |
-| 2026-08-08 | [`2026-08-08-s253.md`](../experiments/2026-08-08-s253.md) | Public | Public v25 source family post-refresh calibration, pending public score |
-| 2026-08-08 | [`2026-08-08-s254.md`](../experiments/2026-08-08-s254.md) | Public | Public slow multipost source family post-refresh calibration, pending public score |
-| 2026-08-08 | [`2026-08-08-s255.md`](../experiments/2026-08-08-s255.md) | Public | Public v312 source family post-refresh calibration, pending public score |
-| 2026-08-08 | [`2026-08-08-s256.md`](../experiments/2026-08-08-s256.md) | Public | Public eab source family post-refresh calibration, pending public score |
-| 2026-08-08 | [`2026-08-08-s257.md`](../experiments/2026-08-08-s257.md) | Public | Public latest source family post-refresh calibration, pending public score |
+| 2026-08-08 | [`2026-08-08-s253.md`](../experiments/2026-08-08-s253.md) | Public | Public v25 source family post-refresh calibration, score 83.295 |
+| 2026-08-08 | [`2026-08-08-s254.md`](../experiments/2026-08-08-s254.md) | Public | Public slow multipost source family post-refresh calibration, score 79.455 |
+| 2026-08-08 | [`2026-08-08-s255.md`](../experiments/2026-08-08-s255.md) | Public | Public v312 source family post-refresh calibration, score 71.865 |
+| 2026-08-08 | [`2026-08-08-s256.md`](../experiments/2026-08-08-s256.md) | Public | Public eab source family post-refresh calibration, score 78.930 |
+| 2026-08-08 | [`2026-08-08-s257.md`](../experiments/2026-08-08-s257.md) | Public | Public latest source family post-refresh calibration, score 81.575 |

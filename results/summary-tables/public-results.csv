@@ -251,8 +251,8 @@ date,submission,status,public_score,notes
 2026-08-07,s250,error,6.410,public documented direct source family returned with public score after evaluation error
 2026-08-07,s251,error,6.410,public documented rotation source family returned with public score after evaluation error
 2026-08-07,s252,error,7.690,public documented direct source family returned with public score after evaluation error
-2026-08-08,s253,pending,,public v25 source family post-refresh calibration pending public score
-2026-08-08,s254,pending,,public slow multipost source family post-refresh calibration pending public score
-2026-08-08,s255,pending,,public v312 source family post-refresh calibration pending public score
-2026-08-08,s256,pending,,public eab source family post-refresh calibration pending public score
-2026-08-08,s257,pending,,public latest source family post-refresh calibration pending public score
+2026-08-08,s253,complete,83.295,public v25 source family post-refresh calibration completed
+2026-08-08,s254,complete,79.455,public slow multipost source family post-refresh calibration completed
+2026-08-08,s255,complete,71.865,public v312 source family post-refresh calibration completed
+2026-08-08,s256,complete,78.930,public eab source family post-refresh calibration completed
+2026-08-08,s257,complete,81.575,public latest source family post-refresh calibration completed

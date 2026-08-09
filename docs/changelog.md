@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-09
+
+- Recorded completed outcomes for s253 through s257.
+
 ## 2026-08-08
 
 - Added pending record for s257.
