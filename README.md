@@ -202,6 +202,10 @@ Returned with a public score after evaluation error:
 - `s251`: public score `6.410`
 - `s252`: public score `7.690`
 
+Accepted submissions pending public scores:
+
+- `s258`
+
 Completed without a reported public score:
 
 - `s06`

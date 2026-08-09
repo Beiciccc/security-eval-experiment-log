@@ -2,6 +2,7 @@
 
 ## 2026-08-09
 
+- Added pending record for s258.
 - Recorded completed outcomes for s253 through s257.
 
 ## 2026-08-08
