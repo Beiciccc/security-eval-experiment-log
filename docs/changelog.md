@@ -2,6 +2,7 @@
 
 ## 2026-08-11
 
+- Added pending record for s267.
 - Added pending record for s266.
 - Added pending record for s265.
 - Added pending record for s264.

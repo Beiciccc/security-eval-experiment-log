@@ -202,6 +202,7 @@ Latest completed public scores:
 - `s264`: submitted; public score pending
 - `s265`: submitted; public score pending
 - `s266`: submitted; public score pending
+- `s267`: submitted; public score pending
 
 Returned with a public score after evaluation error:
 

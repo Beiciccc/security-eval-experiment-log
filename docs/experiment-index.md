@@ -269,3 +269,4 @@
 | 2026-08-11 | [`2026-08-11-s264.md`](../experiments/2026-08-11-s264.md) | Public | Public v25 source family repeat, pending public score |
 | 2026-08-11 | [`2026-08-11-s265.md`](../experiments/2026-08-11-s265.md) | Public | Public v25 source family repeat, pending public score |
 | 2026-08-11 | [`2026-08-11-s266.md`](../experiments/2026-08-11-s266.md) | Public | Public v25 source family repeat, pending public score |
+| 2026-08-11 | [`2026-08-11-s267.md`](../experiments/2026-08-11-s267.md) | Public | Public latest source family repeat, pending public score |
