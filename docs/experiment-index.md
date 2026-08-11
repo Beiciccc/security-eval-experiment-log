@@ -260,8 +260,8 @@
 | 2026-08-08 | [`2026-08-08-s255.md`](../experiments/2026-08-08-s255.md) | Public | Public v312 source family post-refresh calibration, score 71.865 |
 | 2026-08-08 | [`2026-08-08-s256.md`](../experiments/2026-08-08-s256.md) | Public | Public eab source family post-refresh calibration, score 78.930 |
 | 2026-08-08 | [`2026-08-08-s257.md`](../experiments/2026-08-08-s257.md) | Public | Public latest source family post-refresh calibration, score 81.575 |
-| 2026-08-09 | [`2026-08-09-s258.md`](../experiments/2026-08-09-s258.md) | Public | Public v25 source family post-refresh repeat, pending public score |
-| 2026-08-09 | [`2026-08-09-s259.md`](../experiments/2026-08-09-s259.md) | Public | Public v25 source family post-refresh repeat, pending public score |
-| 2026-08-09 | [`2026-08-09-s260.md`](../experiments/2026-08-09-s260.md) | Public | Public v25 source family post-refresh repeat, pending public score |
-| 2026-08-09 | [`2026-08-09-s261.md`](../experiments/2026-08-09-s261.md) | Public | Public latest source family post-refresh repeat, pending public score |
-| 2026-08-09 | [`2026-08-09-s262.md`](../experiments/2026-08-09-s262.md) | Public | Public hitherto source family post-refresh probe, pending public score |
+| 2026-08-09 | [`2026-08-09-s258.md`](../experiments/2026-08-09-s258.md) | Public | Public v25 source family post-refresh repeat, score 84.420 |
+| 2026-08-09 | [`2026-08-09-s259.md`](../experiments/2026-08-09-s259.md) | Public | Public v25 source family post-refresh repeat, score 86.040 |
+| 2026-08-09 | [`2026-08-09-s260.md`](../experiments/2026-08-09-s260.md) | Public | Public v25 source family post-refresh repeat, score 85.230 |
+| 2026-08-09 | [`2026-08-09-s261.md`](../experiments/2026-08-09-s261.md) | Public | Public latest source family post-refresh repeat, score 82.925 |
+| 2026-08-09 | [`2026-08-09-s262.md`](../experiments/2026-08-09-s262.md) | Public | Public hitherto source family post-refresh probe, score 40.600 |
