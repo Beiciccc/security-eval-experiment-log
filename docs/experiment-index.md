@@ -270,3 +270,5 @@
 | 2026-08-11 | [`2026-08-11-s265.md`](../experiments/2026-08-11-s265.md) | Public | Public v25 source family repeat, score 83.880 |
 | 2026-08-11 | [`2026-08-11-s266.md`](../experiments/2026-08-11-s266.md) | Public | Public v25 source family repeat, score 87.615 |
 | 2026-08-11 | [`2026-08-11-s267.md`](../experiments/2026-08-11-s267.md) | Public | Public latest source family repeat, score 86.945 |
+| 2026-08-17 | [`2026-08-17-s268.md`](../experiments/2026-08-17-s268.md) | Public | Public v25 source family repeat, pending public score |
+| 2026-08-17 | [`2026-08-17-s269.md`](../experiments/2026-08-17-s269.md) | Public | Public v25 source family repeat, pending public score |

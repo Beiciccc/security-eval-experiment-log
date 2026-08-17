@@ -203,6 +203,8 @@ Latest completed public scores:
 - `s265`: public score `83.880`
 - `s266`: public score `87.615`
 - `s267`: public score `86.945`
+- `s268`: submitted; public score pending
+- `s269`: submitted; public score pending
 
 Returned with a public score after evaluation error:
 
